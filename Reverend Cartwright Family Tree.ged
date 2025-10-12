@@ -1,0 +1,2403 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2025.08
+2 _TREE Reverend Cartwright Family Tree
+3 RIN 206240200
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 12 Oct 2025
+2 TIME 17:03:08
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I182700525085@ INDI
+1 NAME Joseph /Cartwright/ Sr
+2 GIVN Joseph
+2 SURN Cartwright
+2 NSFX Sr
+2 SOUR @S522662917@
+3 PAGE Swarthmore College; Swarthmore, Pennsylvania
+3 _APID 1,2189::3110088
+2 SOUR @S522616142@
+3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 389
+3 _APID 1,2451::4644687
+2 SOUR @S522616061@
+3 PAGE The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: Georgetown, Washington, District of Columbia; Roll: 57; Page: 227b
+3 _APID 1,8054::19726109
+2 SOUR @S522615771@
+3 PAGE Year: 1840; Census Place: Georgetown, Georgetown, District of Columbia; Roll: 35; Page: 162; Family History Library Film: 0006700
+3 _APID 1,8057::1624056
+2 SOUR @S522616183@
+3 PAGE Year: 1830; Census Place: Georgetown, Washington, District of Columbia; Series: M19; Roll: 14; Page: 154; Family History Library Film: 0006699
+3 _APID 1,8058::2044375
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/114108621/joseph-cartwright
+3 _APID 1,60525::62758127
+1 SEX M
+1 FAMC @F10@
+1 FAMS @F7@
+1 BIRT
+2 DATE 15 Jul 1783
+2 PLAC Virginia, United States of America
+2 SOUR @S522616061@
+3 PAGE The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: Georgetown, Washington, District of Columbia; Roll: 57; Page: 227b
+3 _APID 1,8054::19726109
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/114108621/joseph-cartwright
+3 _APID 1,60525::62758127
+1 RESI
+2 DATE 1830
+2 PLAC Georgetown, Washington, District of Columbia, USA
+2 SOUR @S522616183@
+3 PAGE Year: 1830; Census Place: Georgetown, Washington, District of Columbia; Series: M19; Roll: 14; Page: 154; Family History Library Film: 0006699
+3 _APID 1,8058::2044375
+1 RESI
+2 DATE 7 Oct 1832
+2 PLAC Philadelphia, Philadelphia, Pennsylvania, USA
+2 SOUR @S522616142@
+3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 389
+3 _APID 1,2451::4644687
+2 NOTE Religion: Methodist
+1 RESI
+2 DATE 1840
+2 PLAC Georgetown, Georgetown, District of Columbia, USA
+2 SOUR @S522615771@
+3 PAGE Year: 1840; Census Place: Georgetown, Georgetown, District of Columbia; Roll: 35; Page: 162; Family History Library Film: 0006700
+3 _APID 1,8057::1624056
+1 EVEN
+2 TYPE Rev. Cartwright
+2 DATE 4 Mar 1846
+2 PLAC Middlebury, Vermont
+2 SOUR @S522664734@
+3 PAGE Rev. Cartwright 4 Mar 1846
+3 DATA
+4 WWW https://www.newspapers.com/article/vermont-religious-observer-rev-cartwrig/181418889/?xid=637
+3 OBJE @O9@
+2 OBJE @O9@
+1 RESI
+2 DATE 1850
+2 PLAC Georgetown, Washington, District of Columbia, USA
+2 SOUR @S522616061@
+3 PAGE The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: Georgetown, Washington, District of Columbia; Roll: 57; Page: 227b
+3 _APID 1,8054::19726109
+2 NOTE Occupation: Clergyman M E
+1 DEAT
+2 DATE 2 DEC 1851
+2 PLAC District of Columbia, United States of America
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/114108621/joseph-cartwright
+3 _APID 1,60525::62758127
+1 BURI
+2 PLAC Washington, District of Columbia, United States of America
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/114108621/joseph-cartwright
+3 _APID 1,60525::62758127
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+1 SOUR @S522662917@
+2 PAGE Swarthmore College; Swarthmore, Pennsylvania
+2 _APID 1,2189::3110088
+1 SOUR @S522616142@
+2 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 389
+2 _APID 1,2451::4644687
+1 SOUR @S522616061@
+2 PAGE The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: Georgetown, Washington, District of Columbia; Roll: 57; Page: 227b
+2 _APID 1,8054::19726109
+1 SOUR @S522615771@
+2 PAGE Year: 1840; Census Place: Georgetown, Georgetown, District of Columbia; Roll: 35; Page: 162; Family History Library Film: 0006700
+2 _APID 1,8057::1624056
+1 SOUR @S522616183@
+2 PAGE Year: 1830; Census Place: Georgetown, Washington, District of Columbia; Series: M19; Roll: 14; Page: 154; Family History Library Film: 0006699
+2 _APID 1,8058::2044375
+1 SOUR @S522616186@
+2 _APID 1,25493::1022
+1 SOUR @S522615836@
+2 DATA
+3 WWW https://www.findagrave.com/memorial/114108621/joseph-cartwright
+2 _APID 1,60525::62758127
+1 SOUR @S522664734@
+2 PAGE Rev. Cartwright 4 Mar 1846
+2 DATA
+3 WWW https://www.newspapers.com/article/vermont-religious-observer-rev-cartwrig/181418889/?xid=637
+2 OBJE @O9@
+1 OBJE @O21@
+2 _PRIM Y
+1 OBJE @O9@
+1 OBJE @O3@
+1 OBJE @O18@
+1 OBJE @O1@
+1 OBJE @O2@
+1 OBJE @O24@
+1 OBJE @O7@
+1 OBJE @O6@
+1 OBJE @O5@
+1 OBJE @O17@
+1 OBJE @O26@
+1 OBJE @O4@
+1 OBJE @O12@
+1 OBJE @O10@
+1 OBJE @O11@
+1 OBJE @O23@
+1 OBJE @O13@
+1 OBJE @O25@
+1 _MTTAG @T32@
+0 @I182700525086@ INDI
+1 NAME Susannah (Sucky) /Wilson/
+2 GIVN Susannah (Sucky)
+2 SURN Wilson
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/114108693/susannah-cartwright
+3 _APID 1,60525::62758189
+1 SEX F
+1 FAMS @F7@
+1 BIRT
+2 DATE Abt. 1785
+2 PLAC Maryland
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/114108693/susannah-cartwright
+3 _APID 1,60525::62758189
+1 DEAT
+2 DATE 5 DEC 1850
+2 PLAC Georgetown, District of Columbia, USA
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/114108693/susannah-cartwright
+3 _APID 1,60525::62758189
+1 BURI
+2 PLAC Washington, District of Columbia, United States of America
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/114108693/susannah-cartwright
+3 _APID 1,60525::62758189
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+1 SOUR @S522615836@
+2 DATA
+3 WWW https://www.findagrave.com/memorial/114108693/susannah-cartwright
+2 _APID 1,60525::62758189
+1 OBJE @O6@
+2 _PRIM Y
+1 OBJE @O24@
+1 OBJE @O7@
+1 OBJE @O5@
+0 @I182700525132@ INDI
+1 NAME Hamilton /Cartwright/
+2 GIVN Hamilton
+2 SURN Cartwright
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+1 SEX M
+1 FAMS @F10@
+1 BIRT
+2 DATE Abt. 1755
+2 PLAC Maryland
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 230037156955:1030:5480813
+0 @I182700525330@ INDI
+1 NAME Frank /Cartwright/
+2 GIVN Frank
+2 SURN Cartwright
+1 SEX M
+1 FAMC @F10@
+1 BIRT
+2 PLAC Loudoun County, Virginia, USA
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 230037158244:1030:5480813
+0 @I182700525331@ INDI
+1 NAME Harry /Cartwright/
+2 GIVN Harry
+2 SURN Cartwright
+1 SEX M
+1 FAMC @F10@
+1 BIRT
+2 PLAC Loudoun County, Virginia, USA
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 230037158093:1030:5480813
+0 @I182700525332@ INDI
+1 NAME Philip /Cartwright/
+2 GIVN Philip
+2 SURN Cartwright
+1 SEX M
+1 FAMC @F10@
+1 BIRT
+2 DATE 1775
+2 PLAC Loudoun County, Virginia, USA
+1 DEAT
+2 DATE Bef. 1860
+2 PLAC District of Columbia
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 25331203785:1030:5480813
+0 @I182700525334@ INDI
+1 NAME Willie /Cartwright/
+2 GIVN Willie
+2 SURN Cartwright
+1 SEX M
+1 FAMC @F10@
+1 BIRT
+2 PLAC Loudoun County, Virginia, USA
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 230037158691:1030:5480813
+0 @I182700526394@ INDI
+1 NAME Lewis /Cartwright/
+2 GIVN Lewis
+2 SURN Cartwright
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+2 SOUR @S522615746@
+3 PAGE District of Columbia Public Library; Washington, D.C.; Washington, D.C. Deaths, 1874-1945
+3 _APID 1,62876::105236254
+1 SEX M
+1 FAMC @F7@
+1 FAMS @F5@
+1 BIRT
+2 DATE January 4, 1817
+2 PLAC Leesburg, Loudoun, Virginia, USA
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+2 SOUR @S522615746@
+3 PAGE District of Columbia Public Library; Washington, D.C.; Washington, D.C. Deaths, 1874-1945
+3 _APID 1,62876::105236254
+1 DEAT
+2 DATE 04 Mar 1875
+2 PLAC Georgetown, District of Columbia, United States
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 24025689728:1030:5480813
+2 _APID 721346349:1030:18844718
+2 _APID 382552046377:1030:184232836
+1 SOUR @S522615746@
+2 PAGE District of Columbia Public Library; Washington, D.C.; Washington, D.C. Deaths, 1874-1945
+2 _APID 1,62876::105236254
+0 @I182700526395@ INDI
+1 NAME Wilson /Cartwright/
+2 GIVN Wilson
+2 SURN Cartwright
+1 SEX M
+1 FAMC @F7@
+1 BIRT
+2 DATE 23 JAN 1813
+2 PLAC Maryland
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+0 @I182700526397@ INDI
+1 NAME Mary Sophia /Cartwright/
+2 GIVN Mary Sophia
+2 SURN Cartwright
+1 SEX F
+1 FAMC @F7@
+1 BIRT
+2 DATE 25 Jul 1824
+2 PLAC Washington DC
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+0 @I182700526398@ INDI
+1 NAME Alfred Griffith /Cartwright/
+2 GIVN Alfred Griffith
+2 SURN Cartwright
+1 SEX M
+1 FAMC @F7@
+1 BIRT
+2 DATE 12 Jan 1820
+2 PLAC Loudoun County, Virginia
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+0 @I182700526399@ INDI
+1 NAME William /Cartwright/
+2 GIVN William
+2 SURN Cartwright
+1 SEX M
+1 FAMC @F7@
+1 BIRT
+2 DATE 23 Jan 1811
+2 PLAC Virginia
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+0 @I182700526400@ INDI
+1 NAME Joseph W /Cartwright/ Jr
+2 GIVN Joseph W
+2 SURN Cartwright
+2 NSFX Jr
+1 SEX M
+1 FAMC @F7@
+1 BIRT
+2 DATE 6 Apr 1809
+2 PLAC Maryland
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+0 @I182700526401@ INDI
+1 NAME Hamilton /Cartwright/
+2 GIVN Hamilton
+2 SURN Cartwright
+1 SEX M
+1 FAMC @F7@
+1 BIRT
+2 DATE 08 Jan 1806
+2 PLAC Maryland
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+0 @I182700526402@ INDI
+1 NAME Charles /Cartwright/
+2 GIVN Charles
+2 SURN Cartwright
+1 SEX M
+1 FAMC @F7@
+1 BIRT
+2 DATE 22  Jan 1804
+2 PLAC Maryland
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+0 @I182700526403@ INDI
+1 NAME Phoebe /Cartwright/
+2 GIVN Phoebe
+2 SURN Cartwright
+1 SEX F
+1 FAMC @F7@
+1 BIRT
+2 DATE 12 Apr 1802.
+2 PLAC Maryland
+1 DEAT
+2 DATE Abt. 1820
+2 PLAC Maryland
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+0 @I182700526404@ INDI
+1 NAME Nora Ann /Cartwright/
+2 GIVN Nora Ann
+2 SURN Cartwright
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+1 SEX F
+1 FAMC @F7@
+1 FAMS @F1@
+1 BIRT
+2 DATE 23 Jan 1815
+2 PLAC Maryland, USA
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+1 DEAT
+2 DATE 16 Nov 1897
+2 PLAC Washington DC
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 232419353281:1030:185002887
+1 OBJE @O16@
+2 _PRIM Y
+1 OBJE @O15@
+0 @I182700526485@ INDI
+1 NAME Alice V. /Harris/
+2 GIVN Alice V.
+2 SURN Harris
+2 SOUR @S522615746@
+3 PAGE District of Columbia Public Library; Washington, D.C.; Washington, D.C. Deaths, 1874-1945
+3 _APID 1,62876::236254
+1 SEX F
+1 FAMC @F5@
+1 BIRT
+2 DATE abt 1868
+2 PLAC Washington, District of Columbia
+2 SOUR @S522615746@
+3 PAGE District of Columbia Public Library; Washington, D.C.; Washington, D.C. Deaths, 1874-1945
+3 _APID 1,62876::236254
+1 DEAT
+2 DATE 19 Jun 1920
+2 PLAC No. 2620, P Street, N. W. Section, Washington, District of Columbia, USA
+2 SOUR @S522615746@
+3 PAGE District of Columbia Public Library; Washington, D.C.; Washington, D.C. Deaths, 1874-1945
+3 _APID 1,62876::236254
+1 BURI
+2 DATE 22 Jun 1920
+2 PLAC MT Zion Cemetery (W)
+2 SOUR @S522615746@
+3 PAGE District of Columbia Public Library; Washington, D.C.; Washington, D.C. Deaths, 1874-1945
+3 _APID 1,62876::236254
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 721374416:1030:18844718
+1 SOUR @S522615746@
+2 PAGE District of Columbia Public Library; Washington, D.C.; Washington, D.C. Deaths, 1874-1945
+2 _APID 1,62876::236254
+0 @I182700526486@ INDI
+1 NAME Julia Ann /Duckett/ Cartwright
+2 GIVN Julia Ann
+2 SURN Duckett
+2 NSFX Cartwright
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+2 SOUR @S522616087@
+3 PAGE Washington State Archives; Olympia, Washington; Washington Marriage Records, 1854-2013
+3 _APID 1,2378::906414504
+2 SOUR @S522616084@
+3 _APID 1,2469::1039128245
+2 SOUR @S522616077@
+3 PAGE Year: 1880; Census Place: Georgetown, Washington, District of Columbia, District of Columbia; Roll: 121; Page: 75c; Enumeration District: 015
+3 _APID 1,6742::35114115
+2 SOUR @S522616074@
+3 PAGE Year: 1870; Census Place: Georgetown, Washington, District of Columbia; Roll: M593_127; Page: 610A
+3 _APID 1,7163::2229074
+2 SOUR @S522616154@
+3 PAGE Year: 1900; Census Place: Washington, Washington, District of Columbia; Roll: 159; Page: 14; Enumeration District: 0026
+3 _APID 1,7602::33878225
+2 SOUR @S522616079@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Georgetown Ward 2, Washington, District of Columbia; Roll: M653_101; Page
+4 CONC : 84; Fa
+3 _APID 1,7667::10446082
+2 SOUR @S522616061@
+3 PAGE The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: Georgetown, Washington, District of Columbia; Roll: 57; Page: 226b
+3 _APID 1,8054::19726005
+2 SOUR @S522615771@
+3 PAGE Year: 1840; Census Place: Washington, Washington, District of Columbia; Roll: 35; Page: 47; Family History Library Film: 0006700
+3 _APID 1,8057::1621168
+2 SOUR @S522616082@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Registers of Signatures of Depositors in Branches of the Freedman's Savings and Trust Company, 1865-1874; ARC Identifier: 566522; Record Group Number: 101; Record Group: Records of the O
+4 CONC ffice of
+3 _APID 1,8755::75232086
+2 SOUR @S522616088@
+3 PAGE Evening Star; Publication Date: 5 Apr 1901; Publication Place: Washington, District of Columbia, USA; URL: https://www.newspapers.com/image/186245981/?article=fcba648b-3f9c-44ae-bd04-5fc8e80ac89f&xid=5507&terms=Julia_Ann_Cartwright
+3 DATA
+4 WWW https://www.newspapers.com/image/186245981/?article=fcba648b-3f9c-44ae-bd04-5fc8e80ac89f&xid=5507&terms=Julia_Ann_Cartwright
+3 _APID 1,50087::4400039494
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/71342831/julia-a-cartwright
+3 _APID 1,60525::29650432
+2 SOUR @S522616090@
+3 _APID 1,61404::900206851
+2 SOUR @S522616083@
+3 PAGE Evening Star; Publication Date: 14 Mar 1901; Publication Place: Washington, District of Columbia, USA; URL: https://www.newspapers.com/image/186242604/?article=ffb8b4c8-4bc7-4b11-a0da-c85ff9e09090&focus=0.8461276,0.32796898,0.9933215,0.36128426&xid
+4 CONC =3355
+3 DATA
+4 WWW https://www.newspapers.com/image/186242604/?article=ffb8b4c8-4bc7-4b11-a0da-c85ff9e09090&focus=0.8461276,0.32796898,0.9933215,0.36128426&xid=3355
+3 _APID 1,61843::610385695
+2 SOUR @S522615746@
+3 PAGE District of Columbia Public Library; Washington, D.C.; Washington, D.C. Deaths, 1874-1945
+3 _APID 1,62876::120236254
+1 SEX F
+1 FAMC @F2@
+1 FAMC @F3@
+1 FAMS @F5@
+1 FAMS @F6@
+1 BIRT
+2 DATE Jul 1824
+2 PLAC Maryland, USA
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+2 SOUR @S522616077@
+3 PAGE Year: 1880; Census Place: Georgetown, Washington, District of Columbia, District of Columbia; Roll: 121; Page: 75c; Enumeration District: 015
+3 _APID 1,6742::35114115
+2 SOUR @S522616074@
+3 PAGE Year: 1870; Census Place: Georgetown, Washington, District of Columbia; Roll: M593_127; Page: 610A
+3 _APID 1,7163::2229074
+2 SOUR @S522616154@
+3 PAGE Year: 1900; Census Place: Washington, Washington, District of Columbia; Roll: 159; Page: 14; Enumeration District: 0026
+3 _APID 1,7602::33878225
+2 SOUR @S522616079@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Georgetown Ward 2, Washington, District of Columbia; Roll: M653_101; Page
+4 CONC : 84; Fa
+3 _APID 1,7667::10446082
+2 SOUR @S522616061@
+3 PAGE The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: Georgetown, Washington, District of Columbia; Roll: 57; Page: 226b
+3 _APID 1,8054::19726005
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/71342831/julia-a-cartwright
+3 _APID 1,60525::29650432
+2 SOUR @S522615746@
+3 PAGE District of Columbia Public Library; Washington, D.C.; Washington, D.C. Deaths, 1874-1945
+3 _APID 1,62876::120236254
+1 RESI
+2 DATE 1840
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S522615771@
+3 PAGE Year: 1840; Census Place: Washington, Washington, District of Columbia; Roll: 35; Page: 47; Family History Library Film: 0006700
+3 _APID 1,8057::1621168
+1 RESI
+2 DATE 1850
+2 PLAC Georgetown, Washington, District of Columbia, USA
+2 SOUR @S522616061@
+3 PAGE The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: Georgetown, Washington, District of Columbia; Roll: 57; Page: 226b
+3 _APID 1,8054::19726005
+1 RESI
+2 DATE 1860
+2 PLAC Georgetown Ward 2, Georgetown, Washington, District of Columbia, USA
+2 SOUR @S522616079@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Georgetown Ward 2, Washington, District of Columbia; Roll: M653_101; Page
+4 CONC : 84; Fa
+3 _APID 1,7667::10446082
+1 RESI
+2 DATE 1870
+2 PLAC Georgetown, Georgetown, Washington, District of Columbia, USA
+2 SOUR @S522616074@
+3 PAGE Year: 1870; Census Place: Georgetown, Washington, District of Columbia; Roll: M593_127; Page: 610A
+3 _APID 1,7163::2229074
+2 NOTE Occupation: Keeping House
+1 RESI
+2 DATE 1878
+2 PLAC Washington, District of Columbia, USA
+2 SOUR @S522616084@
+3 _APID 1,2469::1039128245
+1 RESI
+2 DATE 1880
+2 PLAC Georgetown, Washington, District of Columbia, District of Columbia, USA
+2 SOUR @S522616077@
+3 PAGE Year: 1880; Census Place: Georgetown, Washington, District of Columbia, District of Columbia; Roll: 121; Page: 75c; Enumeration District: 015
+3 _APID 1,6742::35114115
+2 NOTE Occupation: Laundress; Marital Status: Widowed; Relation to Head of House: Self
+1 RESI
+2 DATE 1900
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S522616154@
+3 PAGE Year: 1900; Census Place: Washington, Washington, District of Columbia; Roll: 159; Page: 14; Enumeration District: 0026
+3 _APID 1,7602::33878225
+2 NOTE Marital Status: Widowed; Relation to Head of House: Head
+1 RESI
+2 DATE 5 Apr 1901
+2 PLAC Washington, District of Columbia, USA
+2 SOUR @S522616088@
+3 PAGE Evening Star; Publication Date: 5 Apr 1901; Publication Place: Washington, District of Columbia, USA; URL: https://www.newspapers.com/image/186245981/?article=fcba648b-3f9c-44ae-bd04-5fc8e80ac89f&xid=5507&terms=Julia_Ann_Cartwright
+3 DATA
+4 WWW https://www.newspapers.com/image/186245981/?article=fcba648b-3f9c-44ae-bd04-5fc8e80ac89f&xid=5507&terms=Julia_Ann_Cartwright
+3 _APID 1,50087::4400039494
+1 DEAT
+2 DATE 12 MAR 1901
+2 PLAC Washington, District of Columbia
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/71342831/julia-a-cartwright
+3 _APID 1,60525::29650432
+2 SOUR @S522616083@
+3 PAGE Evening Star; Publication Date: 14 Mar 1901; Publication Place: Washington, District of Columbia, USA; URL: https://www.newspapers.com/image/186242604/?article=ffb8b4c8-4bc7-4b11-a0da-c85ff9e09090&focus=0.8461276,0.32796898,0.9933215,0.36128426&xid
+4 CONC =3355
+3 DATA
+4 WWW https://www.newspapers.com/image/186242604/?article=ffb8b4c8-4bc7-4b11-a0da-c85ff9e09090&focus=0.8461276,0.32796898,0.9933215,0.36128426&xid=3355
+3 _APID 1,61843::610385695
+1 BURI
+2 PLAC Washington, District of Columbia, United States of America
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/71342831/julia-a-cartwright
+3 _APID 1,60525::29650432
+2 SOUR @S522616083@
+3 PAGE Evening Star; Publication Date: 14 Mar 1901; Publication Place: Washington, District of Columbia, USA; URL: https://www.newspapers.com/image/186242604/?article=ffb8b4c8-4bc7-4b11-a0da-c85ff9e09090&focus=0.8461276,0.32796898,0.9933215,0.36128426&xid
+4 CONC =3355
+3 DATA
+4 WWW https://www.newspapers.com/image/186242604/?article=ffb8b4c8-4bc7-4b11-a0da-c85ff9e09090&focus=0.8461276,0.32796898,0.9933215,0.36128426&xid=3355
+3 _APID 1,61843::610385695
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 24025689946:1030:5480813
+2 _APID 721346353:1030:18844718
+2 _APID 362195199749:1030:169404482
+2 _APID 382552041703:1030:184232836
+2 _APID 232419353426:1030:185002887
+1 SOUR @S522616087@
+2 PAGE Washington State Archives; Olympia, Washington; Washington Marriage Records, 1854-2013
+2 _APID 1,2378::906414504
+1 SOUR @S522616084@
+2 _APID 1,2469::1039128245
+1 SOUR @S522616077@
+2 PAGE Year: 1880; Census Place: Georgetown, Washington, District of Columbia, District of Columbia; Roll: 121; Page: 75c; Enumeration District: 015
+2 _APID 1,6742::35114115
+1 SOUR @S522616074@
+2 PAGE Year: 1870; Census Place: Georgetown, Washington, District of Columbia; Roll: M593_127; Page: 610A
+2 _APID 1,7163::2229074
+1 SOUR @S522616154@
+2 PAGE Year: 1900; Census Place: Washington, Washington, District of Columbia; Roll: 159; Page: 14; Enumeration District: 0026
+2 _APID 1,7602::33878225
+1 SOUR @S522616079@
+2 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Georgetown Ward 2, Washington, District of Columbia; Roll: M653_101; Page
+3 CONC : 84; Fa
+2 _APID 1,7667::10446082
+1 SOUR @S522616061@
+2 PAGE The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: Georgetown, Washington, District of Columbia; Roll: 57; Page: 226b
+2 _APID 1,8054::19726005
+1 SOUR @S522615771@
+2 PAGE Year: 1840; Census Place: Washington, Washington, District of Columbia; Roll: 35; Page: 47; Family History Library Film: 0006700
+2 _APID 1,8057::1621168
+1 SOUR @S522616082@
+2 PAGE The National Archives in Washington, DC; Washington, DC, USA; Registers of Signatures of Depositors in Branches of the Freedman's Savings and Trust Company, 1865-1874; ARC Identifier: 566522; Record Group Number: 101; Record Group: Records of the O
+3 CONC ffice of
+2 _APID 1,8755::75232086
+1 SOUR @S522616088@
+2 PAGE Evening Star; Publication Date: 5 Apr 1901; Publication Place: Washington, District of Columbia, USA; URL: https://www.newspapers.com/image/186245981/?article=fcba648b-3f9c-44ae-bd04-5fc8e80ac89f&xid=5507&terms=Julia_Ann_Cartwright
+2 DATA
+3 WWW https://www.newspapers.com/image/186245981/?article=fcba648b-3f9c-44ae-bd04-5fc8e80ac89f&xid=5507&terms=Julia_Ann_Cartwright
+2 _APID 1,50087::4400039494
+1 SOUR @S522615836@
+2 DATA
+3 WWW https://www.findagrave.com/memorial/71342831/julia-a-cartwright
+2 _APID 1,60525::29650432
+1 SOUR @S522616090@
+2 _APID 1,61404::900206851
+1 SOUR @S522616083@
+2 PAGE Evening Star; Publication Date: 14 Mar 1901; Publication Place: Washington, District of Columbia, USA; URL: https://www.newspapers.com/image/186242604/?article=ffb8b4c8-4bc7-4b11-a0da-c85ff9e09090&focus=0.8461276,0.32796898,0.9933215,0.36128426&xid
+3 CONC =3355
+2 DATA
+3 WWW https://www.newspapers.com/image/186242604/?article=ffb8b4c8-4bc7-4b11-a0da-c85ff9e09090&focus=0.8461276,0.32796898,0.9933215,0.36128426&xid=3355
+2 _APID 1,61843::610385695
+1 SOUR @S522615746@
+2 PAGE District of Columbia Public Library; Washington, D.C.; Washington, D.C. Deaths, 1874-1945
+2 _APID 1,62876::120236254
+1 OBJE @O8@
+2 _PRIM Y
+1 OBJE @O14@
+1 OBJE @O19@
+1 OBJE @O20@
+1 OBJE @O6@
+0 @I182700526539@ INDI
+1 NAME Grace Ann "Gracie" /Duckett/
+2 GIVN Grace Ann "Gracie"
+2 SURN Duckett
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+2 SOUR @S522616116@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Records of the U.S. District Court For the District of Columbia Relating to Slaves, 1851-1863; Record Group Title: Records of District Courts of the United States, 1685 - 2009; Record Gr
+4 CONC oup Numb
+3 _APID 1,2171::6976
+2 SOUR @S522616084@
+3 _APID 1,2469::1029292731
+2 SOUR @S522616074@
+3 PAGE Year: 1870; Census Place: Georgetown, Washington, District of Columbia; Roll: M593_127; Page: 610A
+3 _APID 1,7163::3091078
+2 SOUR @S522616079@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Georgetown Ward 2, Washington, District of Columbia; Roll: M653_101; Page
+4 CONC : 90; Fa
+3 _APID 1,7667::10446591
+2 SOUR @S522615771@
+3 PAGE Year: 1840; Census Place: Georgetown, Georgetown, District of Columbia; Roll: 35; Page: 163; Family History Library Film: 0006700
+3 _APID 1,8057::1624095
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/30055006/gracy-duckett
+3 _APID 1,60525::75006736
+1 SEX F
+1 FAMC @F4@
+1 FAMS @F2@
+1 BIRT
+2 DATE 1790
+2 PLAC Maryland
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+2 SOUR @S522616074@
+3 PAGE Year: 1870; Census Place: Georgetown, Washington, District of Columbia; Roll: M593_127; Page: 610A
+3 _APID 1,7163::3091078
+2 SOUR @S522616079@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Georgetown Ward 2, Washington, District of Columbia; Roll: M653_101; Page
+4 CONC : 90; Fa
+3 _APID 1,7667::10446591
+2 SOUR @S522615779@
+3 DATA
+4 WWW https://familysearch.org/ark:/61903/1:1:F7TP-BQQ
+3 _APID 1,60260::840044
+1 RESI
+2 DATE 1840
+2 PLAC Georgetown, Georgetown, District of Columbia, USA
+2 SOUR @S522615771@
+3 PAGE Year: 1840; Census Place: Georgetown, Georgetown, District of Columbia; Roll: 35; Page: 163; Family History Library Film: 0006700
+3 _APID 1,8057::1624095
+1 RESI
+2 DATE 3 Jun 1858
+2 PLAC Washington, District of Columbia, USA
+2 SOUR @S522616116@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Records of the U.S. District Court For the District of Columbia Relating to Slaves, 1851-1863; Record Group Title: Records of District Courts of the United States, 1685 - 2009; Record Gr
+4 CONC oup Numb
+3 _APID 1,2171::6976
+1 RESI
+2 DATE 1860
+2 PLAC Georgetown Ward 2, Georgetown, Washington, District of Columbia, USA
+2 SOUR @S522616079@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Georgetown Ward 2, Washington, District of Columbia; Roll: M653_101; Page
+4 CONC : 90; Fa
+3 _APID 1,7667::10446591
+1 RESI
+2 DATE 1864
+2 PLAC Washington, District of Columbia, USA
+2 SOUR @S522616084@
+3 _APID 1,2469::1029292731
+2 NOTE Occupation: Colored
+1 RESI
+2 DATE 1870
+2 PLAC Georgetown, Georgetown, Washington, District of Columbia, USA
+2 SOUR @S522616074@
+3 PAGE Year: 1870; Census Place: Georgetown, Washington, District of Columbia; Roll: M593_127; Page: 610A
+3 _APID 1,7163::3091078
+2 NOTE Occupation: At Home
+1 DEAT
+2 DATE 28 JUL 1874
+2 PLAC Washington, District of Columbia
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/30055006/gracy-duckett
+3 _APID 1,60525::75006736
+1 BURI
+2 PLAC Washington, District of Columbia, United States of America
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/30055006/gracy-duckett
+3 _APID 1,60525::75006736
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 721370125:1030:18844718
+2 _APID 362195199755:1030:169404482
+2 _APID 382552050828:1030:184232836
+1 SOUR @S522616116@
+2 PAGE The National Archives in Washington, DC; Washington, DC, USA; Records of the U.S. District Court For the District of Columbia Relating to Slaves, 1851-1863; Record Group Title: Records of District Courts of the United States, 1685 - 2009; Record Gr
+3 CONC oup Numb
+2 _APID 1,2171::6976
+1 SOUR @S522616084@
+2 _APID 1,2469::1029292731
+1 SOUR @S522616074@
+2 PAGE Year: 1870; Census Place: Georgetown, Washington, District of Columbia; Roll: M593_127; Page: 610A
+2 _APID 1,7163::3091078
+1 SOUR @S522616079@
+2 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Georgetown Ward 2, Washington, District of Columbia; Roll: M653_101; Page
+3 CONC : 90; Fa
+2 _APID 1,7667::10446591
+1 SOUR @S522615771@
+2 PAGE Year: 1840; Census Place: Georgetown, Georgetown, District of Columbia; Roll: 35; Page: 163; Family History Library Film: 0006700
+2 _APID 1,8057::1624095
+1 SOUR @S522615779@
+2 DATA
+3 WWW https://familysearch.org/ark:/61903/1:1:F7TP-BQQ
+2 _APID 1,60260::840044
+1 SOUR @S522615836@
+2 DATA
+3 WWW https://www.findagrave.com/memorial/30055006/gracy-duckett
+2 _APID 1,60525::75006736
+1 OBJE @O22@
+2 _PRIM Y
+1 _MTTAG @T32@
+0 @I182700526574@ INDI
+1 NAME Augustus /Duckett/
+2 GIVN Augustus
+2 SURN Duckett
+1 SEX M
+1 FAMS @F2@
+1 FAMS @F3@
+1 BIRT
+2 DATE abt 1800
+2 PLAC Maryland, USA
+1 DEAT
+2 DATE 15 Jun 1879
+2 PLAC Washington CO., DC
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 24025701362:1030:5480813
+2 _APID 721370509:1030:18844718
+2 _APID 362253877899:1030:169404482
+2 _APID 232419351479:1030:185002887
+0 @I182700526648@ INDI
+1 NAME Emeline /Duckett/
+2 GIVN Emeline
+2 SURN Duckett
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+1 SEX F
+1 FAMC @F2@
+1 BIRT
+2 DATE 8 April 1817
+2 PLAC Prince George's County, Maryland
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 362704080601:1030:169404482
+2 _APID 382607133743:1030:184232836
+0 @I182700526649@ INDI
+1 NAME Henry /Duckett/
+2 GIVN Henry
+2 SURN Duckett
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+2 SOUR @S522615779@
+3 DATA
+4 WWW https://familysearch.org/ark:/61903/1:1:F7TP-BQS
+3 _APID 1,60260::840043
+2 SOUR @S522616184@
+3 PAGE District of Columbia Public Library; Washington, DC, USA; Washington, D.C. Marriage Certificates, 1870-1920
+3 _APID 1,62863::165747
+1 SEX M
+1 FAMC @F2@
+1 FAMS @F8@
+1 BIRT
+2 DATE abt 1821
+2 PLAC Maryland
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+2 SOUR @S522615779@
+3 DATA
+4 WWW https://familysearch.org/ark:/61903/1:1:F7TP-BQS
+3 _APID 1,60260::840043
+1 DEAT
+2 DATE 30 Sep 1886
+2 PLAC 611 VA. Ave. S. W., Washington, District of Columbia, USA
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+2 SOUR @S522615779@
+3 DATA
+4 WWW https://familysearch.org/ark:/61903/1:1:F7TP-BQS
+3 _APID 1,60260::840043
+1 BURI
+2 DATE 03 Oct 1886
+2 SOUR @S522615779@
+3 DATA
+4 WWW https://familysearch.org/ark:/61903/1:1:F7TP-BQS
+3 _APID 1,60260::840043
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 362704080552:1030:169404482
+2 _APID 382663680219:1030:184232836
+1 SOUR @S522615779@
+2 DATA
+3 WWW https://familysearch.org/ark:/61903/1:1:F7TP-BQS
+2 _APID 1,60260::840043
+1 SOUR @S522616184@
+2 PAGE District of Columbia Public Library; Washington, DC, USA; Washington, D.C. Marriage Certificates, 1870-1920
+2 _APID 1,62863::165747
+0 @I182700527134@ INDI
+1 NAME Mary /Duckett/
+2 GIVN Mary
+2 SURN Duckett
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+1 SEX F
+1 FAMC @F3@
+1 BIRT
+2 DATE Abt. 1833
+2 PLAC Washington, District of Columbia, USA
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 25331168236:1030:5480813
+2 _APID 232419351490:1030:185002887
+0 @I182700527135@ INDI
+1 NAME Edward /Duckett/
+2 GIVN Edward
+2 SURN Duckett
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+1 SEX M
+1 FAMC @F3@
+1 BIRT
+2 DATE Abt. 1829
+2 PLAC Washington, District of Columbia, USA
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 25331168232:1030:5480813
+2 _APID 232419351485:1030:185002887
+0 @I182700527136@ INDI
+1 NAME Annie S. /Cartwright/
+2 GIVN Annie S.
+2 SURN Cartwright
+1 SEX F
+1 FAMC @F5@
+1 BIRT
+2 DATE JUN 1858
+2 PLAC Washington, D.C.
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 24025697885:1030:5480813
+2 _APID 721374414:1030:18844718
+0 @I182700527137@ INDI
+1 NAME William Henry /Cartwright/
+2 GIVN William Henry
+2 SURN Cartwright
+2 SOUR @S522616082@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Registers of Signatures of Depositors in Branches of the Freedman's Savings and Trust Company, 1865-1874; ARC Identifier: 566522; Record Group Number: 101; Record Group: Records of the O
+4 CONC ffice of
+3 DATA
+4 WWW https://familysearch.org/ark:/61903/1:2:MZ3M-N32
+3 _APID 1,8755::232086
+1 SEX M
+1 FAMC @F5@
+1 BIRT
+2 DATE abt 1854
+2 PLAC Washington DC
+2 SOUR @S522616082@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Registers of Signatures of Depositors in Branches of the Freedman's Savings and Trust Company, 1865-1874; ARC Identifier: 566522; Record Group Number: 101; Record Group: Records of the O
+4 CONC ffice of
+3 DATA
+4 WWW https://familysearch.org/ark:/61903/1:2:MZ3M-N32
+3 _APID 1,8755::232086
+1 RESI
+2 DATE 6 Apr 1871
+2 PLAC New York
+2 SOUR @S522616082@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Registers of Signatures of Depositors in Branches of the Freedman's Savings and Trust Company, 1865-1874; ARC Identifier: 566522; Record Group Number: 101; Record Group: Records of the O
+4 CONC ffice of
+3 DATA
+4 WWW https://familysearch.org/ark:/61903/1:2:MZ3M-N32
+3 _APID 1,8755::232086
+2 NOTE Relation to Head of House: Self
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 24025695818:1030:5480813
+2 _APID 721352639:1030:18844718
+1 SOUR @S522616082@
+2 PAGE The National Archives in Washington, DC; Washington, DC, USA; Registers of Signatures of Depositors in Branches of the Freedman's Savings and Trust Company, 1865-1874; ARC Identifier: 566522; Record Group Number: 101; Record Group: Records of the O
+3 CONC ffice of
+2 DATA
+3 WWW https://familysearch.org/ark:/61903/1:2:MZ3M-N32
+2 _APID 1,8755::232086
+0 @I182700527138@ INDI
+1 NAME Lewis /Cartwright/ Jr
+2 GIVN Lewis
+2 SURN Cartwright
+2 NSFX Jr
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/114108895/lewis-cartwright
+3 _APID 1,60525::62758364
+1 SEX M
+1 FAMC @F5@
+1 BIRT
+2 DATE MAY 1850
+2 PLAC Washington, District of Columbia
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/114108895/lewis-cartwright
+3 _APID 1,60525::62758364
+1 DEAT
+2 DATE 8 JUL 1850
+2 PLAC Georgetown, Georgetown, District of Columbia
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/114108895/lewis-cartwright
+3 _APID 1,60525::62758364
+1 BURI
+2 PLAC Washington, District of Columbia, United States of America
+2 SOUR @S522615836@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/114108895/lewis-cartwright
+3 _APID 1,60525::62758364
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 232269643176:1030:5480813
+2 _APID 382699851054:1030:184232836
+1 SOUR @S522615836@
+2 DATA
+3 WWW https://www.findagrave.com/memorial/114108895/lewis-cartwright
+2 _APID 1,60525::62758364
+0 @I182700527139@ INDI
+1 NAME Matilda /Cartwright/
+2 GIVN Matilda
+2 SURN Cartwright
+1 SEX F
+1 FAMC @F5@
+1 BIRT
+2 DATE abt 1848
+2 PLAC Washington DC
+1 DEAT
+2 DATE 29 JAN 1863
+2 PLAC Washington, District of Columbia
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 24025695996:1030:5480813
+2 _APID 721319328:1030:18844718
+2 _APID 382699851053:1030:184232836
+0 @I182700527140@ INDI
+1 NAME A /Cartwright/
+2 GIVN A
+2 SURN Cartwright
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+1 SEX M
+1 FAMC @F5@
+1 BIRT
+2 DATE abt 1845
+2 PLAC District of Columbia
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+1 DEAT
+2 DATE 20 JUN 1875
+2 PLAC New Orleans, Orleans Parish, Louisiana
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 24025695687:1030:5480813
+2 _APID 721352637:1030:18844718
+2 _APID 382552046418:1030:184232836
+0 @I182700527141@ INDI
+1 NAME Margaret /Cartwright/ Burgoyne Holden
+2 GIVN Margaret
+2 SURN Cartwright
+2 NSFX Burgoyne Holden
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+1 SEX F
+1 FAMC @F5@
+1 BIRT
+2 DATE abt 1843
+2 PLAC Washington DC
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 24025695570:1030:5480813
+2 _APID 382699857180:1030:184232836
+0 @I182700529270@ INDI
+1 NAME Nancy (Ann) /Duckett/ SLAVE OF JOHN EVERSFIELD
+2 GIVN Nancy (Ann)
+2 SURN Duckett
+2 NSFX SLAVE OF JOHN EVERSFIELD
+1 SEX F
+1 FAMC @F9@
+1 BIRT
+2 DATE 1792
+2 PLAC Maryland
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 382663684980:1030:184232836
+0 @I182700529271@ INDI
+1 NAME /MOTHER OF GRACIE AND ANN DUCKETT/
+2 SURN MOTHER OF GRACIE AND ANN DUCKETT
+1 SEX F
+1 FAMS @F4@
+1 FAMS @F9@
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 382663684950:1030:184232836
+0 @I182700529495@ INDI
+1 NAME A /Cartwright/
+2 GIVN A
+2 SURN Cartwright
+1 SEX F
+1 FAMC @F5@
+1 BIRT
+2 DATE abt 1848
+2 PLAC District of Columbia
+1 DEAT
+2 DATE 29 JAN 1863
+2 PLAC Washington, District of Columbia
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 382552046447:1030:184232836
+0 @I182700529496@ INDI
+1 NAME E /Cartwright/
+2 GIVN E
+2 SURN Cartwright
+1 SEX F
+1 FAMC @F5@
+1 BIRT
+2 DATE abt 1847
+2 PLAC District of Columbia
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 382552046429:1030:184232836
+0 @I182700529735@ INDI
+1 NAME Lloyd H /Brown/
+2 GIVN Lloyd H
+2 SURN Brown
+1 SEX M
+1 FAMS @F1@
+1 BIRT
+2 DATE Abt. 1804
+2 PLAC Maryland, USA
+1 DEAT
+2 DATE Bet. 12 Jun 1880–1890
+2 PLAC Washington, District of Columbia, USA
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 232419352673:1030:185002887
+0 @I182700529736@ INDI
+1 NAME Adell /Brown/
+2 GIVN Adell
+2 SURN Brown
+1 SEX F
+1 FAMC @F1@
+1 BIRT
+2 DATE Jul 1856
+2 PLAC Washington, District of Columbia, USA
+2 NOTE Birth year per 1860 & 1870 censuses; Month per 1900 census
+1 DEAT
+2 DATE Unknown
+2 PLAC Washington, District of Columbia, USA
+2 NOTE Likely Between 1 April 1933-1 April 1940
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 232419350445:1030:185002887
+0 @I182700529737@ INDI
+1 NAME Lloyd H /Brown/ Jr.
+2 GIVN Lloyd H
+2 SURN Brown
+2 NSFX Jr.
+1 SEX M
+1 FAMC @F1@
+1 BIRT
+2 DATE Feb 1850
+2 PLAC Washington, District of Columbia, USA
+1 DEAT
+2 DATE Bet. 15 Apr 1910–1920
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 232419351491:1030:185002887
+0 @I182700529738@ INDI
+1 NAME Eleanor /Brown/
+2 GIVN Eleanor
+2 SURN Brown
+1 SEX F
+1 FAMC @F1@
+1 BIRT
+2 DATE Abt. 1855
+2 PLAC Washington, District of Columbia, USA
+1 DEAT
+2 DATE Unknown
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 232419349920:1030:185002887
+0 @I182700529739@ INDI
+1 NAME Sarah /Brown/
+2 GIVN Sarah
+2 SURN Brown
+1 SEX F
+1 FAMC @F1@
+1 BIRT
+2 DATE Abt. 1859
+2 PLAC Washington, District of Columbia, USA
+1 DEAT
+2 DATE Unknown
+2 NOTE May have died before 1 June 1870
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 232419350333:1030:185002887
+0 @I182700529740@ INDI
+1 NAME John /Brown/
+2 GIVN John
+2 SURN Brown
+1 SEX M
+1 FAMC @F1@
+1 BIRT
+2 DATE Abt. 1851
+2 PLAC Washington, District of Columbia, USA
+1 DEAT
+2 DATE Unknown
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 232419350822:1030:185002887
+0 @I182700529741@ INDI
+1 NAME Elena /Brown/
+2 GIVN Elena
+2 SURN Brown
+1 SEX F
+1 FAMC @F1@
+1 BIRT
+2 DATE Abt. 1862
+2 PLAC Washington, District of Columbia, USA
+1 DEAT
+2 DATE Unknown
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 232419349929:1030:185002887
+0 @I182700529742@ INDI
+1 NAME Charles H /Brown/
+2 GIVN Charles H
+2 SURN Brown
+1 SEX M
+1 FAMC @F1@
+1 BIRT
+2 DATE Abt. 1853
+2 PLAC Washington, District of Columbia, USA
+1 DEAT
+2 DATE Unknown
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 232419351377:1030:185002887
+0 @I182700529743@ INDI
+1 NAME Agnes Virginia /Brown/
+2 GIVN Agnes Virginia
+2 SURN Brown
+1 SEX F
+1 FAMC @F1@
+1 BIRT
+2 DATE Feb 1854
+2 PLAC Washington, District of Columbia, USA
+1 DEAT
+2 DATE 08 Jan 1921
+2 PLAC Washington, District of Columbia, USA
+2 NOTE 2213 F Street, N. W.
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 232419353878:1030:185002887
+0 @I182700530352@ INDI
+1 NAME Walter R /Cartwright/
+2 GIVN Walter R
+2 SURN Cartwright
+2 SOUR @S522616087@
+3 PAGE Washington State Archives; Olympia, Washington; Washington Marriage Records, 1854-2013
+3 _APID 1,2378::6414504
+1 SEX M
+1 FAMS @F6@
+1 SOUR @S522616087@
+2 PAGE Washington State Archives; Olympia, Washington; Washington Marriage Records, 1854-2013
+2 _APID 1,2378::6414504
+0 @I182700530561@ INDI
+1 NAME Emiline /Duckett/
+2 GIVN Emiline
+2 SURN Duckett
+1 SEX F
+1 FAMC @F2@
+0 @I182700531052@ INDI
+1 NAME FATHER OF GRACIE /Duckett/
+2 GIVN FATHER OF GRACIE
+2 SURN Duckett
+1 SEX M
+1 FAMS @F4@
+0 @I182700531901@ INDI
+1 NAME Mary /Walker/
+2 GIVN Mary
+2 SURN Walker
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+2 SOUR @S522616188@
+3 DATA
+4 WWW http://familysearch.org/pal:/MM9.1.1/FWMH-SV3
+3 _APID 1,60261::241649
+2 SOUR @S522616090@
+3 _APID 1,61404::900419388
+2 SOUR @S522616184@
+3 PAGE District of Columbia Public Library; Washington, DC, USA; Washington, D.C. Marriage Certificates, 1870-1920
+3 _APID 1,62863::90165747
+1 SEX F
+1 FAMS @F8@
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 382663684249:1030:184232836
+1 SOUR @S522616188@
+2 DATA
+3 WWW http://familysearch.org/pal:/MM9.1.1/FWMH-SV3
+2 _APID 1,60261::241649
+1 SOUR @S522616090@
+2 _APID 1,61404::900419388
+1 SOUR @S522616184@
+2 PAGE District of Columbia Public Library; Washington, DC, USA; Washington, D.C. Marriage Certificates, 1870-1920
+2 _APID 1,62863::90165747
+0 @I182700532316@ INDI
+1 NAME Wife of Agustus Duckett /Lucy/
+2 GIVN Wife of Agustus Duckett
+2 SURN Lucy
+1 SEX F
+1 FAMS @F3@
+1 BIRT
+2 DATE Abt. 1800
+2 PLAC Maryland, USA
+1 SOUR @S522615639@
+2 PAGE Ancestry Family Tree
+2 _APID 232419353385:1030:185002887
+0 @F1@ FAM
+1 HUSB @I182700529735@
+1 WIFE @I182700526404@
+1 CHIL @I182700529737@
+1 CHIL @I182700529740@
+1 CHIL @I182700529742@
+1 CHIL @I182700529743@
+1 CHIL @I182700529738@
+1 CHIL @I182700529736@
+1 CHIL @I182700529739@
+1 CHIL @I182700529741@
+1 MARR
+2 DATE 15 Dec 1849
+2 PLAC Washington, District of Columbia, USA
+0 @F2@ FAM
+1 HUSB @I182700526574@
+1 WIFE @I182700526539@
+1 CHIL @I182700526648@
+1 CHIL @I182700526649@
+1 CHIL @I182700526486@
+1 CHIL @I182700530561@
+0 @F3@ FAM
+1 HUSB @I182700526574@
+1 WIFE @I182700532316@
+1 CHIL @I182700526486@
+1 CHIL @I182700527135@
+1 CHIL @I182700527134@
+0 @F4@ FAM
+1 HUSB @I182700531052@
+1 WIFE @I182700529271@
+1 CHIL @I182700526539@
+0 @F5@ FAM
+1 HUSB @I182700526394@
+1 WIFE @I182700526486@
+1 CHIL @I182700527141@
+1 CHIL @I182700527140@
+1 CHIL @I182700529496@
+1 CHIL @I182700527139@
+1 CHIL @I182700529495@
+1 CHIL @I182700527138@
+1 CHIL @I182700527137@
+1 CHIL @I182700527136@
+1 CHIL @I182700526485@
+1 MARR
+2 DATE 19 MAY 1841
+2 PLAC Washington, District of Columbia
+2 SOUR @S522615639@
+3 PAGE Ancestry Family Tree
+2 SOUR @S522616090@
+3 _WPID 1,61404::900206851
+0 @F6@ FAM
+1 HUSB @I182700530352@
+1 WIFE @I182700526486@
+0 @F7@ FAM
+1 HUSB @I182700525085@
+1 WIFE @I182700525086@
+1 CHIL @I182700526403@
+1 CHIL @I182700526402@
+1 CHIL @I182700526401@
+1 CHIL @I182700526400@
+1 CHIL @I182700526399@
+1 CHIL @I182700526395@
+1 CHIL @I182700526404@
+1 CHIL @I182700526394@
+1 CHIL @I182700526398@
+1 CHIL @I182700526397@
+1 MARR
+2 DATE 26 Dec 1800
+2 PLAC Maryland, USA
+0 @F8@ FAM
+1 HUSB @I182700526649@
+1 WIFE @I182700531901@
+1 MARR
+2 DATE 18 Dec 1877
+2 PLAC Washington, District of Columbia
+2 SOUR @S522616188@
+3 DATA
+4 WWW http://familysearch.org/pal:/MM9.1.1/FWMH-SV3
+3 _WPID 1,60261::241649
+2 SOUR @S522616090@
+3 _WPID 1,61404::900419388
+0 @F9@ FAM
+1 WIFE @I182700529271@
+1 CHIL @I182700529270@
+0 @F10@ FAM
+1 HUSB @I182700525132@
+1 CHIL @I182700525332@
+1 CHIL @I182700525085@
+1 CHIL @I182700525330@
+1 CHIL @I182700525331@
+1 CHIL @I182700525334@
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 84792
+3 _WDTH 500
+3 _HGHT 442
+2 TITL Cartwright Emancipation certificate
+1 _OID 0addbeee-d458-4f2d-9635-276d59a73b0f
+1 DATE 1/11/2014 8:50:52 PM
+1 _CREA 2025-09-18 19:18:05.592
+1 _USER dLYfRZde7JfwOK/aJuqv9zQwj4rqoxwZP3j+c+l4NQZSe2H86nI5nPtM8oKf5lXMY03DpGyc++JgpEHfKlZyTQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 203684366
+2 _PID 322663203795
+2 _OID df94804b-2d54-4d1c-a056-bbd9d5271e23
+2 _USER 4S/0z1zOXDA+cwfoDWD5FumKm1bB89FtDMBuH5TH3t2GzzmA8x4A82UnkpALvjf1ddn1OUGJ6i3Z2V4rfUt7Tw==
+3 _ENCR 1
+2 _DATE 2025-04-13 22:52:59.335
+1 _ORIG u
+1 _MSER
+2 _LKID df94804b-2d54-4d1c-a056-bbd9d5271e23
+1 _ATL N
+0 @O2@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 1817756
+3 _WDTH 2372
+3 _HGHT 2094
+2 TITL Deed of Emmancipation, Joseph W.Cartwright, Sr.
+1 _OID 20dda99e-1ad3-457e-905f-d71faa471b55
+1 DATE December 13, 1819
+1 _DSCR Transcription:  Deed of Emancipation for Joseph W Cartwright, Sr.  December 13, 1819    Know all men by these present that I John Rose of the County of Loudoun and State of Virginia as well for and in consideration of the faithful and extraordinar
+2 CONC y meritorious services of my negro man slave named Joe (sometimes called Joseph Cartwright) as of other considerations (?) thereunto moving have emancipated, freed and set at liberty my said negro man slave named Joe and by these present do emancip
+2 CONC ate, free and set at liberty and forever discharge from the service of my self and all others the said negro man named Joe (alias Joseph Cartwright) hereby declaring him to be free to all intents and purposes.  In testimony whereof I have hereunt
+2 CONC o set my hand and seal this 13th day of December 1819.      Signed, sealed, acknowledged and delivered in the presence of the court held for Loudoun County on the 13th day of Dec. 1819,  This deed  of Emancipation from John Rose to Joe(alias Josep
+2 CONC h Cartwright) was acknowledged by sa
+1 _CREA 2025-09-18 19:17:10.663
+1 _USER GPsJOFrvCz29FdczBaPTwESsWsOblleOZcXMnM7JsFDB9O/hxTpSeo/FpLM0dxpVNOyK0YuwYcNjw3R7JZZgLg==
+2 _ENCR 1
+1 _CLON
+2 _TID 185002887
+2 _PID 232419353614
+2 _OID 8dd10b22-db1c-4133-93fc-4e5544ec6d32
+2 _USER 1m7BvGl3tEtwMkE34wyhdGspJu+GZg0EA+hBTm1KRgmKwVEUhjBCPBFqSu5ptIeTYsVUS5l6aM5U0CLhS+1QlQ==
+3 _ENCR 1
+2 _DATE 2023-08-11 22:13:46.325
+1 _ORIG u
+1 _MSER
+2 _LKID 8dd10b22-db1c-4133-93fc-4e5544ec6d32
+1 _ATL N
+0 @O3@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 54780
+3 _WDTH 400
+3 _HGHT 400
+2 TITL Joseph Cartwright Obit -From American Telegraph Newspaper, December 3, 1851
+1 _OID 3502a25e-a7c2-44f2-a885-9b850c1b6b4e
+1 DATE 10/10/2019 10:28:46 PM
+1 _CREA 2025-09-18 19:24:16.808
+1 _USER /801tg5Q1Ub+yZMcoGp0le+N7RUV4gbeh+XQvN4eniQyhsyCGjdnBpI3nkw2JtnkNusW+dCv+CYxkVknk8Eu5A==
+2 _ENCR 1
+1 _CLON
+2 _TID 185002887
+2 _PID 232419353614
+2 _OID 64fdeafa-f140-4751-a9c5-0d2dacbad5a9
+2 _USER KWfFdUXLhvmrvcLW+D2lEyBdcwVBeepWELJhVlGQrP2aP5Ni47x0ol+pkK+JmgU76ogNbuEDW/OXr2pF9NEG8A==
+3 _ENCR 1
+2 _DATE 2023-02-07 16:36:21.926
+1 _ORIG u
+1 _MSER
+2 _LKID 64fdeafa-f140-4751-a9c5-0d2dacbad5a9
+1 _ATL N
+0 @O4@ OBJE
+1 FILE
+2 FORM pdf
+3 TYPE story
+3 _MTYPE story
+3 _STYPE pdf
+3 _SIZE 82459
+2 TITL Newpaper Article 3rd Colum Jos Cartwright (b)
+1 _OID 35b77361-bc63-4e65-8511-936b602cfc6d
+1 _CREA 2025-09-18 18:07:39.685
+1 _USER TYauZARZEjuKGyDvmXQnWJPfiUUQGikMeeIgU7AWTHMol+wVWWpDC0ak6HY4zCSZveJM5lJgSeU0ZD6wnFe4Kg==
+2 _ENCR 1
+1 _CLON
+2 _TID 169404482
+2 _PID 362195199761
+2 _OID 53965dae-6472-406e-a9c7-c26b9eadd0ca
+2 _USER daMdvM7xl25EQecsIFIt23R+oA36dyrrzSy4LYVbm5NFRDseSrKJdGCE6xCCgHAleQKQ6aj73+Jw757WBRrusA==
+3 _ENCR 1
+2 _DATE 2020-07-02 17:25:53.000
+1 _ORIG u
+1 _MSER
+2 _LKID 53965dae-6472-406e-a9c7-c26b9eadd0ca
+1 _ATL N
+0 @O5@ OBJE
+1 FILE
+2 FORM
+3 TYPE story
+3 _MTYPE story
+3 _STYPE x-inline
+3 _SIZE 2471
+2 TITL Old Methodist Burial Ground
+1 _OID 3a64af09-ade2-40db-a1c3-50ab353cc2e0
+1 _META <metadataxml><content><line>&lt;p&gt;&amp;nbsp;&lt;/p&gt;</line><line>&lt;p&gt;&lt;br&gt;&lt;span style="font-family: arial; font-size: xx-small;"&gt;&lt;strong&gt;Mt. Zion Cemetery&lt;/strong&gt;&lt;br&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</line><l
+2 CONC ine>&lt;p&gt;The Mount Zion Cemetery is composed of two separate adjacent cemeteries, the old Methodist Burying Ground and the Female Union Band Society Graveyard. The two cemeteries equally share the three acres of land. There is no fence or othe
+2 CONC r visible demarcation separating the two cemeteries which over time have become known as the Mount Zion Cemetery. The Mount Zion Cemetery is a physical reminder of African American life and the evolving free black culture in the District of Columbi
+2 CONC a from the earliest days of the city to the present.&lt;/p&gt;</line><line>&lt;p&gt;The land for the Old Methodist Episcopal Burying Ground was purchased in 1808 by the Dumbarton Street Methodist Episcopal Church. The membership of the Dumbarton St
+2 CONC reet M.E. Church was fifty percent black, consisting of both free blacks and slaves. At the time, Georgetown was about thirty percent African American. In 1816 the black members of the Dumbarton Street M.E. Church formed the Mount Zion Methodist Ch
+2 CONC urch. Eventually the Mount Zion Methodist Church took over the cemetery in 1879. The Female Union Band Society was a cooperative benevolent society of free black women whose members were pledged to assist one another in sickness and in death. The s
+2 CONC ociety was created in 1842 and purchased the land for the burial ground that year. Mt. Zion Cemetery illustrates the significant contribution of African Americans to the development of Georgetown and the work of an early benevolent society organize
+2 CONC d by black women for their own benefit. The cemetery fell into neglect and disrepair until 1976 when volunteer workers under the direction of the Afro-American Bicentennial Corporation cleared away underbrush, trash, and ground cover.&lt;/p&gt;</li
+2 CONC ne><line>&lt;p&gt;&lt;em&gt;The Mount Zion Cemetery is located at 27th and Q Sts, NW. The cemetery is open daily during daylight hours, to arrange for a tour contact Mt. Zion Church at 202-234-0148. Metro stop: Foggy Bottom&lt;/em&gt;&lt;/p&gt;</li
+2 CONC ne><line>&lt;p&gt;Provided by National Park Services&amp;nbsp; &amp;nbsp;http://www.nps.gov/nr/travel/wash/dc10.htm&lt;/p&gt;</line><line>&lt;p&gt;&amp;nbsp;&lt;/p&gt;</line><line>&lt;p&gt;&amp;nbsp;&lt;/p&gt;</line></content></metadataxml>
+1 _CREA 2025-09-18 18:08:07.352
+1 _USER LIryf+XSGQ8srkde0v3bxBLB5ZUdlFtd/ZY3rV/0QoJuGGH+53/3y7k2XRnoh3gf/BCKxgRQnWWPhxavnQcreg==
+2 _ENCR 1
+1 _CLON
+2 _TID 16693880
+2 _PID 1000060889
+2 _OID ed41bcdb-639b-4b53-8903-adbec9a49277
+2 _USER PCvaDm8dFgUyIi++vFCGREtsuiMiBtX677MngYX1q+rm1uIj3/m86Wc5+mVRgDvm3gQsGi7iREFVhtTmkRUMMA==
+3 _ENCR 1
+2 _DATE 2013-07-28 16:59:40.930
+1 _ORIG u
+1 _MSER
+2 _LKID ed41bcdb-639b-4b53-8903-adbec9a49277
+1 _ATL N
+0 @O6@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 773474
+3 _WDTH 2550
+3 _HGHT 3300
+2 TITL Joseph Cartwright - Pg2
+1 _OID 3ddfa7cb-118e-43ab-8185-b31a869a4d11
+1 DATE 11/17/2018 5:54:47 PM
+1 _CREA 2025-09-18 18:23:30.948
+1 _USER gQdighX8j5MkVwgiD8Z3aEWG9fVFY262emv5L/O4OHpHgaYi2d5MyG2F/YZRuemsVZp8yON8pDVEWvY0ywhYdQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 185002887
+2 _PID 232419353617
+2 _OID 22382b76-3cae-4356-a337-45d19cb6a5c5
+2 _USER TqDgRtoTXaIElFS13WZthVAWnxvCiLGlzHYuyhrtfvE/oH+ptgvPqREN6NSsdtmDG+WciLUicgELMZLPWOQJHQ==
+3 _ENCR 1
+2 _DATE 2022-09-13 23:30:50.892
+1 _ORIG u
+1 _MSER
+2 _LKID 22382b76-3cae-4356-a337-45d19cb6a5c5
+1 _ATL N
+0 @O7@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 1559292
+3 _WDTH 2550
+3 _HGHT 3300
+2 TITL Joseph Cartwright - Pg1
+1 _OID 51121492-021f-4c7e-bb60-631b317e6cf6
+1 DATE 11/17/2018 5:54:07 PM
+1 _DSCR Information provided to dbjackson926 by Aaron Dorsey, Researcher.
+1 _CREA 2025-09-18 18:23:35.140
+1 _USER h1+ypO726xMnv3x2r0+GoptmG9Dt6L5A/4jQDVZSf0vAJs410A/AJwPLgkwLruAYKTiF8QXwNIXBSVbNpCk0SQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 185002887
+2 _PID 232419353617
+2 _OID f81743f1-8fb7-4842-9e3c-3077dd216744
+2 _USER mzbNLWRRzZRSZE6OLDEjzguUMQY3P6SQpO5PLLZ621AKb0hL6K1iwbXlJPgMJLmEJtc60/yMmybi+1lOGGzR7w==
+3 _ENCR 1
+2 _DATE 2022-09-13 23:30:50.842
+1 _ORIG u
+1 _MSER
+2 _LKID f81743f1-8fb7-4842-9e3c-3077dd216744
+1 _ATL N
+0 @O8@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 1559292
+3 _WDTH 2550
+3 _HGHT 3300
+2 TITL Joseph Cartwright - Pg1
+1 _OID 5e398c95-048c-4f1b-99b1-8f4d9849f870
+1 DATE 11/17/2018 5:54:07 PM
+1 _DSCR Information provided to dbjackson926 by Aaron Dorsey, Researcher.
+1 _CREA 2025-09-18 19:02:20.355
+1 _USER 6lauE6duCb6P/ixPTM3rf4ikUsjFboUxnTeoDgtTYsP1l6a99L9i+Ji/KVF+unMmfV+2kJ2KqnV0j8r4hWCTRA==
+2 _ENCR 1
+1 _CLON
+2 _TID 185002887
+2 _PID 232419353426
+2 _OID f81743f1-8fb7-4842-9e3c-3077dd216744
+2 _USER 3LVNx6tPQiftNT7s2zOMkAJiAeAHzfTv+I8taUbTcHKqPvShwJ9Tf50wgfuNnXNtY4YZf/Y/46xty3hvyGdIYQ==
+3 _ENCR 1
+2 _DATE 2022-09-13 23:30:50.842
+1 _ORIG u
+1 _MSER
+2 _LKID f81743f1-8fb7-4842-9e3c-3077dd216744
+1 _ATL N
+0 @O9@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 31611
+3 _WDTH 400
+3 _HGHT 400
+2 TITL Newspapers.com - Vermont Religious Observer - 4 Mar 1846 - 4 Rev. Cartwright
+1 _OID 6079df1d-83ab-4c7c-837e-82f52f8b821c
+1 DATE 4 Mar 1846
+1 PLAC Middlebury, Vermont
+1 _CREA 2025-09-20 15:43:33.044
+1 _USER 9aX9iIPooH/iyy9nFLKN3YzvWxo5se6x53SLIi4twaDUq4t0Lsi77liyYjfljvI9xOQiTDMKLrppvvVBsW+/AQ==
+2 _ENCR 1
+1 _ORIG newspapers
+2 _URL https://www.newspapers.com/article/vermont-religious-observer-rev-cartwrig/181418889/?xid=865
+1 _ATL N
+0 @O10@ OBJE
+1 FILE
+2 FORM
+3 TYPE story
+3 _MTYPE story
+3 _STYPE x-inline
+3 _SIZE 8460
+2 TITL A Man Who Knew No Bounds
+1 _OID 705fcf68-b51f-4732-bd85-320cf4c3b9a1
+1 PLAC Georgetown, Loundon County, 
+1 _DSCR Story of Joseph Cartwright and his life and family.
+1 _META <metadataxml><content><line>&lt;p&gt;&lt;span style="font-size: small;"&gt;This story was provided to me by my cousins Jacqueline and Doris, from Aaron Dorsey,&amp;nbsp;about our great-great-great-great grandfather.&amp;nbsp; The most amazing thin
+2 CONC g to me is that at this time in history, he raised 2,000.00 to purchase his wife and children out of the bonds of slavery.&amp;nbsp; To know that he was assocated with Ebenezer Church and that hundreds of years later, his descendants also attende
+2 CONC d this same church, is mind blowing.&amp;nbsp; Enjoy the read - I know I come from good stock - to see a goal and reach it - never losing faith.&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&amp;nbsp;&lt;/p&gt;</line><line>&lt;p style="margin: 0in 0
+2 CONC in 10pt;"&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="font-family: calibri;"&gt;Joseph Cartwright was born on 15 Jul 1783 in Maryland. He died on 2 Dec 1851 at the age of 68 in Washington, Distric
+2 CONC t of Columbia. He was buried on 4 Dec 1851 at Old Methodist Burial Ground in Georgetown, Washington, District of Columbia.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="f
+2 CONC ont-size: medium;"&gt;&lt;span style="font-family: calibri;"&gt;&lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;Rev. Joseph Cartwright&lt;/strong&gt; &lt;/span&gt;was emancipated by a deed from John Rose in 1819. According to Dr. Id
+2 CONC a Jones, Joseph purchased his freedom for five dollars." Four years later, Cartwright purchased the freedom of his wife Susannah (Sucky) and youngest son Alfred in 1823 from Mary Saunders' trustee Samuel Edwards. Cartwright relocated to Georgetown
+2 CONC . He would spent the next decade raising money to purchase the freedom of his other children Joseph Jr., Lewis and Norah, traveling as far away as Salem. Massachusetts, where he stayed with white abolitionist Rev. Charles Turner Torrey, to raise mo
+2 CONC ney for the purchase of his children.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="font-family: calibri;"&gt;On 19 December 1832
+2 CONC , he paid Tighman Gore of Loudoun County, VA, $300.00 of the $350.00 that was requested for his son Joseph Cartwright, Jr. Tighman retained the service of Joseph Jr. for the ensuing year until the balance was paid off. About five year later (17 Apr
+2 CONC il 1837), Joseph Sr. purchased his son Lewis from Presly Saunders and his wife Mary for $600.00. He paid $500.00 immediately and paid the balance off by July 1837. And on 21 August 1839, he purchased his last child from slavery. He purchased Nora f
+2 CONC rom Evan Lyons for $600.00.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="font-family: calibri;"&gt;One month after purchasing al
+2 CONC l of his children he manumitted them on 23 September 1839.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="font-family: calibri;"&gt;
+2 CONC He was hired by &lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;Ebenezer Church in Georgetown in 1824&lt;/strong&gt;&lt;/span&gt;, to preach to Blacks in Prince George County, Maryland at a salary of $25.00 a year. In 1825, the Baltim
+2 CONC ore Conference of the Methodist Church, named Cartwright, as the first Black supply pastor to be placed on salary and appointed to lead one of its Black congregations. The following year he would become the first Black person to be ordained as an e
+2 CONC lder although he was not admitted into the conference of traveling ministers. In 1830, he was ordained as a local preacher by the Georgetown Station. During the same year, the Baltimore District of the Conference employed him to travel in the lowe
+2 CONC r part of the district. The lower part of the district included Fairfax, Loudoun, Prince William Counties, VA and Washington, DC.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span s
+2 CONC tyle="font-size: medium;"&gt;&lt;span style="font-family: calibri;"&gt;In 1831, the Conference approved recommendations for Cartwright to do missionary service in Liberia. Although there is no record stating why he did not go to Liberia, one can as
+2 CONC sume that it had to do with the fact that his children were still enslaved at the time.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span styl
+2 CONC e="font-family: calibri;"&gt;Joseph Cartwright and Susannah "Sucky" Wilson were married on 26 Dec 1800.2 Susannah "Sucky" Wilson was born in 1781 in Maryland. She died on 5 Dec 1850 at the age of 69 in Washington, District of Columbia.2 Sucky was b
+2 CONC uried on 7 Dec 1850 at Old Methodist Burial Ground in Georgetown, Washington, District of Columbia.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-size: medium;"&gt;&
+2 CONC lt;span style="font-family: calibri;"&gt;Joseph Cartwright and Susannah Wilson had the following children:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-size: medium
+2 CONC ;"&gt;&lt;span style="font-family: calibri;"&gt;i. Phoebe Cartwright was born on 12 Apr 1802.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-size: medium;"&gt;&lt;spa
+2 CONC n style="font-family: calibri;"&gt;ii. Charles Cartwright was born on 22 Jan 1804.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="fo
+2 CONC nt-family: calibri;"&gt;iii. Hamilton Cartwright was born on 8 Jan 1806.2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="font-family
+2 CONC : calibri;"&gt; iv. Joseph W. Cartwright Jr., born 6 Apr 1809, Maryland; married Adelaid Peters, 3 Feb 1858, Washington, District of Columbia.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: small;"&
+2 CONC gt;&lt;span style="font-size: medium;"&gt;&lt;span style="font-family: calibri;"&gt;v. William Cartwright was born on 23 Jan 1811 in Maryland.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: medium;"
+2 CONC &gt;&lt;span style="font-family: calibri;"&gt;vi. Wilson Cartwright was born on 23 Jan 1813 in Maryland.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&amp;nbsp;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;s
+2 CONC pan style="font-family: calibri;"&gt;&amp;nbsp;vii. &lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;Nora Ann Cartwright, born 23 Jan 1815, Maryland; married Lloyd Brown, 15 Dec 1849, Washington, District of Columbia. (My ggg-grandpare
+2 CONC nts)&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&amp;nbsp;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="font-family: calibri;"&gt; viii. Lewis Cartwright, born 4 Ja
+2 CONC n 1817, Virginia; married Julia Ann Duckett, 19 May 1841, Washington, District of Columbia; died 4 Mar 1875, Washington, District of Columbia.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&amp;nbsp;&lt;/p&gt;</line><line>&lt;p&gt;&lt;sp
+2 CONC an style="font-size: medium;"&gt;&lt;span style="font-family: calibri;"&gt; ix. Alfred Griffith Cartwright, born 12 Jan 1820, Maryland; married Jane Scott, 23 Oct 1839, Washington, District of Columbia.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><li
+2 CONC ne>&lt;p&gt;&amp;nbsp;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="font-family: calibri;"&gt;&amp;nbsp;x. Mary Sophia Cartwright, born 25 Jul 1824; married Nelson Edwards, 25 Nov 1860; married John Henry Br
+2 CONC own.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="font-family: calibri;"&gt;&amp;nbsp;Researched by Aaron Dorsey&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p&gt;&amp;nbsp;&
+2 CONC lt;/p&gt;</line></content></metadataxml>
+1 _CREA 2025-09-18 18:07:29.483
+1 _USER Sy0hwCsR06Ds9UiOWvMGgARv64V16E93GdiJDXECW+zpIyERgB6omHRRkjwE7DVT+DW09KeOuQQz/LcPe2guVg==
+2 _ENCR 1
+1 _CLON
+2 _TID 5480813
+2 _PID 664283886
+2 _OID 667e5736-4f77-49f9-a287-da2cbabeca5f
+2 _USER oQ+Cw03HT6DPDeyHnU50ufdymxZm8DHx2njNWLIN+hGZ0B+29yWvQgtGMZO1z71mBMGiTGv5Qu9DD+t946LbYQ==
+3 _ENCR 1
+2 _DATE 2013-08-01 07:42:09.117
+1 _ORIG u
+1 _MSER
+2 _LKID 667e5736-4f77-49f9-a287-da2cbabeca5f
+1 _ATL N
+0 @O11@ OBJE
+1 FILE
+2 FORM pdf
+3 TYPE story
+3 _MTYPE story
+3 _STYPE pdf
+3 _SIZE 236357
+2 TITL Newpaper Article 3rd Colum Jos Cartwright (a)
+1 _OID 71dcf054-1506-464c-ab6f-4c4e37a74a39
+1 _CREA 2025-09-18 18:07:25.397
+1 _USER NJD03XWbtEeHTdVKo0UCsEy74T/zwXiuTOZhPv574lFmTFcaqDWRWfnj+MijB6YyBuLN4zSXHXn4Ghw6CEkY/Q==
+2 _ENCR 1
+1 _CLON
+2 _TID 169404482
+2 _PID 362195199761
+2 _OID c30f95da-617f-4c8e-8385-a4f3a869e1bc
+2 _USER GLUV2rYxxbUVn1ejVnpgPH4ovz9UMgOEe7Qf8dzWXfyV2SPnTgKrztKPrlGhXCCYwMTHRTpTxW6E7fEFZMd5lQ==
+3 _ENCR 1
+2 _DATE 2020-07-02 17:25:06.000
+1 _ORIG u
+1 _MSER
+2 _LKID c30f95da-617f-4c8e-8385-a4f3a869e1bc
+1 _ATL N
+0 @O12@ OBJE
+1 FILE
+2 FORM
+3 TYPE story
+3 _MTYPE story
+3 _STYPE x-inline
+3 _SIZE 544
+2 TITL Appointed First Black Elder in Methodist Church
+1 _OID 80a54267-41b2-4fc3-9be6-2651af7f3968
+1 _DSCR Listed in Timeline for the History of the Methodist Church.
+1 _META <metadataxml><content><line>&lt;p&gt;&lt;strong&gt;1826&lt;/strong&gt;&lt;/p&gt;</line><line>&lt;ul&gt;</line><line>&lt;li&gt;Joseph Cartwright is the first African American to receive elders order in the Methodist Episcopal Church. The conferenc
+2 CONC e assigns him as a local elder to Ebenezer MEC in Washington, D.C.&lt;/li&gt;</line><line>&lt;/ul&gt;</line><line>&lt;p&gt;&amp;nbsp;&lt;/p&gt;</line><line>&lt;p&gt;See link to the site.&amp;nbsp; http://www.historicstgeorges.org/african-american-m
+2 CONC ethodists&lt;/p&gt;</line></content></metadataxml>
+1 _CREA 2025-09-18 18:07:35.800
+1 _USER +6p9liPzB4n7vG4v4UGPR+yQ4CjY+rLeRVvGEUmlf/r1DGukqBF5251VGaW7VfPbrK8I7DMk7DrukwUTyqvkrg==
+2 _ENCR 1
+1 _CLON
+2 _TID 5480813
+2 _PID 664283886
+2 _OID 1f32d90c-01a9-4f6d-bb3c-b65e3d61b344
+2 _USER KhormYb3yfhpmtBLm5KCikVZw5kYPXD8uXDEloUxrOPzR91A3OQZLGRv4VEkkxU1nwIp/1BDdcdDSC26W0S6Fw==
+3 _ENCR 1
+2 _DATE 2013-10-17 19:19:15.540
+1 _ORIG u
+1 _MSER
+2 _LKID 1f32d90c-01a9-4f6d-bb3c-b65e3d61b344
+1 _ATL N
+0 @O13@ OBJE
+1 FILE
+2 FORM
+3 TYPE story
+3 _MTYPE story
+3 _STYPE x-inline
+3 _SIZE 2726
+2 TITL Diaries of John Quincy Adams documenting meeting with Reverend Joseph W. Cartwright
+1 _OID 84aae3f8-383a-403c-a465-3ed7f5eabf1e
+1 PLAC Washington, DC  April 17, 1840
+1 _DSCR Meeting between Reverend Joseph W, Cartwright and former President John Quincy Adams
+1 _META <metadataxml><content><line>&lt;p&gt;Reverend Joseph Cartwright, was manumitteed by his owner and spent the next 20 years working to raise money to buy his wife and children. He was successful in this, but by the time he had secured their freedom
+2 CONC , one of his sons had a wife and 3 children who were still enslaved. He was granted a meeting with John Quincy Adams, who had completed his Presidency and was now a Congressman and a passionate abolitionist. Adams kept diaries throughout his life a
+2 CONC nd documented his meeting with Joseph Cartwright on April 17, 1840. This is significant to us all but especially to Grayson and Griffin Adams on the Butler Family Tree, as they are also descended from John Adams on their father's side (DerricK Adam
+2 CONC s, also in the Butler family tree). As their mother, Shari said, "full circle". Here is the excerpt from the diaries of John Quincy Adams, dated April 17, 1840:&lt;/p&gt;</line><line>&lt;p&gt;"17th. A dark-colored mulatto man, named Joseph Cartwrig
+2 CONC ht, &lt;br&gt; a preacher of a colored Methodist church, came this morning &lt;br&gt; with a subscription-book to raise four hundred and fifty dollars &lt;br&gt; to purchase the freedom of his three grandchildren &amp;mdash; two girls &lt;br&gt; an
+2 CONC d one boy, all under three or four years of age. He told &lt;br&gt; me that he had been upwards of twenty years in purchasing &lt;br&gt; his own freedom and that of his three sons; that after this, &lt;br&gt; Henry Johnson, late a member of the Hou
+2 CONC se of Representa- &lt;br&gt; tives from Louisiana, had bought his son's wife and her three &lt;br&gt; children, with many other slaves, to carry them away to Loui- &lt;br&gt; siana; that after the purchase he had been prevailed upon to &lt;br&gt; c
+2 CONC onsent to leave them here for a short time in the charge of a &lt;br&gt; man to whom he had ostensibly sold them, but with the con- &lt;br&gt; sent that this Joseph Cartwright should purchase them for one &lt;br&gt; thousand and twenty-five dollars
+2 CONC . He had actually purchased &lt;br&gt; and paid for the mother, and was now endeavoring to raise four &lt;br&gt; hundred and fifty dollars for the three children. There were &lt;br&gt; in the subscription-book certificates of two white Methodist &l
+2 CONC t;br&gt; ministers, Hamilton and Cookman, to the respectability of this &lt;br&gt; man &amp;mdash; a preacher of the gospel! What a horrible exemplifi- &lt;br&gt; cation of slavery!"&lt;/p&gt;</line><line>&lt;p&gt;http://www.ebooksread.com/authors-
+2 CONC eng/john-quincy-adams/memoirs-of-john-quincy-adams-comprising-portions-of-his-diary-from-1795-to-1848-mad-3/page-25-memoirs-of-john-quincy-adams-comprising-portions-of-his-diary-from-1795-to-1848-mad-3.shtml&lt;/p&gt;</line></content></metadataxml>
+1 _CREA 2025-09-18 18:06:49.961
+1 _USER quctxCTnxSLYg6W2VYQVbWYOctJ90DYQHQZ/UhRXs1xIw+yQGAab/SGl/BC+bJYR5bCqVXSH7Ocx540tz2XDNw==
+2 _ENCR 1
+1 _CLON
+2 _TID 16693880
+2 _PID 1000060889
+2 _OID 08d75bcb-99c7-4a0c-bd27-be4569bf438d
+2 _USER T+fq21ENha7+NPoKhO9eRgLZR8tRfUoQa7ilZQD3U2gP1peQ8hf92sf4Migjn6usiW+QLKDr7jmcEty0IWBHNQ==
+3 _ENCR 1
+2 _DATE 2015-02-14 23:21:22.480
+1 _ORIG u
+1 _MSER
+2 _LKID 08d75bcb-99c7-4a0c-bd27-be4569bf438d
+1 _ATL N
+0 @O14@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 33035
+3 _WDTH 400
+3 _HGHT 400
+2 TITL Obituary for JULIA A. CARTWRIGHT
+1 _OID 85bb9cb2-2afc-4641-98a3-c0df9a1a18ee
+1 DATE 1901-03-14
+1 PLAC Washington, District of Columbia
+1 _CREA 2025-09-18 19:02:43.154
+1 _USER h/kHbDmV3BaFMmDhfrvl2pf67ELxB8uPc2Y6ttx8LrxYH7NetlmR7xdOXZqgUtq21EqZrbYbUzBaDxcGxy/z5A==
+2 _ENCR 1
+1 _CLON
+2 _TID 177644390
+2 _PID 102304913687
+2 _OID 350aec79-b5af-45b3-9484-eb247c2039bc
+2 _USER zsKE3CED+81lxSIe7t43dE05wrTgdxIVtDxfBaJ50ZpiNhPQ1tlmCiPXHGg91ysOybT/KZiKKg4vZ8/aHbVkqA==
+3 _ENCR 1
+2 _DATE 2021-08-23 20:47:11.000
+1 _ORIG newspapers
+2 _URL https://www.newspapers.com/clip/84007229/obituary-for-julia-a-cartwright/?xid=865
+1 _MSER
+2 _LKID 350aec79-b5af-45b3-9484-eb247c2039bc
+1 _ATL N
+0 @O15@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 40337
+3 _WDTH 360
+3 _HGHT 480
+2 TITL Cartwright Family Bible
+1 _OID 89c33f26-db57-47cb-bcaa-f6b43791fadd
+1 _DSCR Page documenting births of Lloyd and Susannah Cartwright and each of their children.  Nora Ann is listed as "Ann".
+2 CONT 
+2 CONT Thanks to Aaron Dorsey
+2 CONT  
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-09-18 18:59:07.935
+1 _USER 7C+HTtim8oUbbAslbisg4DxbLnkAkiv4Aw1CsATqejDdqyyjyf9Sp3NTeug3tUODBUatziS3cdDpnghpDipnxg==
+2 _ENCR 1
+1 _CLON
+2 _TID 16693880
+2 _PID 473685474
+2 _OID 2ef173b1-7c5e-4111-a9e0-c0c16696bd1e
+2 _USER QU9CDhuu7aBgpKcZo+gcztqI6/PlVCokcdTrSjct1VTW7T+5uvntmeIgKZBQlsFecn5QcqgkgwkMuX9ifF3jzw==
+3 _ENCR 1
+2 _DATE 2015-02-11 14:31:26.307
+1 _ORIG u
+1 _MSER
+2 _LKID 2ef173b1-7c5e-4111-a9e0-c0c16696bd1e
+1 _ATL N
+0 @O16@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 25932
+3 _WDTH 351
+3 _HGHT 389
+2 TITL Cartwright Family Bible
+1 _OID 89daba1f-f7b3-4bf2-91d0-f90c5dfcec4c
+1 _DSCR Thanks to Aaron Dorsey
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-09-18 18:58:48.275
+1 _USER Vm1I6XS2UaspNxKl0qhRuNTOGJZK4xd7/inKYsoX2qVU06TNl/ScqYw9goIp9hF1FJ+Y/pK4EiSP7wBTjQ9pjg==
+2 _ENCR 1
+1 _CLON
+2 _TID 16693880
+2 _PID 473685474
+2 _OID 8ca3904e-418d-4f27-aef4-5d26c3e7c590
+2 _USER +TpvValpiClZA84gYRp7kifTRDgi6N7ndyMF5Zk5XY6w2GKZ7a4LFTlJx8xoXUD1j47KncMyB+KZ/GnpVa4qdQ==
+3 _ENCR 1
+2 _DATE 2015-02-11 14:31:25.517
+1 _ORIG u
+1 _MSER
+2 _LKID 8ca3904e-418d-4f27-aef4-5d26c3e7c590
+1 _ATL N
+0 @O17@ OBJE
+1 FILE
+2 FORM
+3 TYPE story
+3 _MTYPE story
+3 _STYPE x-inline
+3 _SIZE 2458
+2 TITL Obituary
+1 _OID 8aa41343-1418-4229-9a31-9b0ca45eb704
+1 _META <metadataxml><content><line /><line>&lt;tbody&gt;</line><line>&lt;tr&gt;</line><line>&lt;td valign="top"&gt;&lt;span style="font-size: medium;"&gt;Birth:&amp;nbsp;&lt;/span&gt;&lt;/td&gt;</line><line>&lt;td align="left" valign="top"&gt;Jul. 15, 178
+2 CONC 3&lt;br&gt;Virginia, USA&lt;/td&gt;</line><line>&lt;/tr&gt;</line><line>&lt;tr&gt;</line><line>&lt;td valign="top"&gt;Death:&amp;nbsp;&lt;/td&gt;</line><line>&lt;td align="left" valign="top"&gt;Dec. 2, 1851&lt;br&gt;District Of Columbia, USA&lt;/td
+2 CONC &gt;</line><line>&lt;/tr&gt;</line><line>&lt;tr&gt;</line><line>&lt;td colspan="2" valign="top"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;br&gt;&lt;span style="font-size: medium;"&gt;Joseph Cartwright was hired by Ebenezer Church i
+2 CONC n Georgetown in 1824, to preach to Blacks in Prince George County, Maryland at a salary of $25.00 a year. In 1825, the Baltimore Conference of the Methodist Church, named Cartwright, as the first Black supply pastor to be placed on salary and appoi
+2 CONC nted to lead one of its Black congregations. The following year he would become the first Black person to be ordained as an elder although he was not admitted into the conference of traveling ministers. In 1830, he was ordained as a local preache
+2 CONC r by the Georgetown Station. During the same year, the Baltimore District of the Conference employed him to travel in the lower part of the district. The lower part of the district included Fairfax, Loudoun, Prince William Counties, VA and Washingt
+2 CONC on, DC.&lt;/span&gt;&lt;br&gt;&lt;span style="font-size: medium;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/td&gt;</line><line>&lt;/tr&gt;</line><line>&lt;tr&gt;</line><line>&lt;td colspan="2"&gt;&amp;nbsp;&lt;/td&gt;</line><line>&lt;/tr&gt;</line><line>&lt;t
+2 CONC r&gt;</line><line>&lt;td colspan="2" valign="top"&gt;Burial:&lt;br&gt; &lt;a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=cr&amp;amp;GRid=114108621&amp;amp;CRid=104442&amp;amp;"&gt;Mount Zion Cemetery&lt;/a&gt; &lt;br&gt;Washington&lt;br&gt;
+2 CONC District of Columbia&lt;br&gt;District Of Columbia, USA&lt;/td&gt;</line><line>&lt;/tr&gt;</line><line>&lt;tr&gt;</line><line>&lt;td colspan="2" align="left"&gt;&amp;nbsp;&lt;br&gt;Created by: &lt;a href="http://www.findagrave.com/cgi-bin/fg.cgi?pa
+2 CONC ge=mr&amp;amp;MRid=47164394"&gt;Khathu&lt;/a&gt;&lt;br&gt;Record added: Jul 20, 2013 &lt;br&gt;Find A Grave Memorial# 114108621&lt;/td&gt;</line><line>&lt;/tr&gt;</line><line>&lt;/tbody&gt;</line><line /></content></metadataxml>
+1 _CREA 2025-09-18 18:08:03.047
+1 _USER 4XQuYVMseKNw5CY3DZ5Hj0ggK964mzq2JORvA/CFnKnwHYJE4zesnITn4Yqw4bqjODd5b92rr+LyNHrrnjvd6w==
+2 _ENCR 1
+1 _CLON
+2 _TID 16693880
+2 _PID 1000060889
+2 _OID fa00d528-d11c-495f-a29e-09e7843be0f6
+2 _USER klID88oG5XupJ+cBXS/MeXQ6jlMPRbdmNpjLyQiyvyKS3xHl/1SFUWAHmgKNZuKYgrkS4YBAKvcNJp0aQrq/AA==
+3 _ENCR 1
+2 _DATE 2015-09-05 16:53:52.413
+1 _ORIG u
+1 _MSER
+2 _LKID fa00d528-d11c-495f-a29e-09e7843be0f6
+1 _ATL N
+0 @O18@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 48670
+3 _WDTH 400
+3 _HGHT 400
+2 TITL From American Telegraph Newspaper, December 3, 1851
+1 _OID 8b76959a-10ec-4a81-aa15-acd3e15ad1b8
+1 DATE 3 Dec 1851
+1 PLAC Washington, District of Columbia
+1 _CREA 2025-09-18 19:24:09.151
+1 _USER m2NZdFGEVg7Y04RirRqemKhRWv3qqBe0JDa36ekQU3rBn8G4mAeu7zPypixkf9hhYSXk5IE+D2S38tnNQJGPCw==
+2 _ENCR 1
+1 _CLON
+2 _TID 16693880
+2 _PID 1000060889
+2 _OID 54d2261f-4309-4a9c-946d-92d2aa5e0917
+2 _USER LVj/WaPagSZMBcuwJ0T/SqDgtHDE9e8tw5v2n+ApQoime3EgVyej2FnmxLsU7njoQTMN7DtMv16vDJvyCPL4oA==
+3 _ENCR 1
+2 _DATE 2018-02-05 17:11:56.333
+1 _ORIG newspapers
+2 _URL https://www.newspapers.com/clip/17178162/from_american_telegraph_newspaper/?xid=865
+1 _MSER
+2 _LKID 54d2261f-4309-4a9c-946d-92d2aa5e0917
+1 _ATL N
+0 @O19@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 32685
+3 _WDTH 400
+3 _HGHT 400
+2 TITL Newspapers.com - Evening star - 14 Mar 1901 - Page 7 Julia A Cartwight d March 12, 1901. 
+1 _OID 8c0a5f2d-aab2-4946-bd81-a22228fe40b0
+1 DATE 14 Mar 1901
+1 PLAC Washington, District of Columbia
+1 _CREA 2025-09-18 19:02:38.944
+1 _USER CgZl4zMI3V73UMbLXU/gUDUGEzuxneTs5uLpDsq68RHBnNdSo2O02g5pggwKOoJl1HuWuph+IahOdRgSXMxvJQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 184232836
+2 _PID 382552041703
+2 _OID 3aee66c4-ed41-48e2-bf2e-59be34c172af
+2 _USER x0cPybv1q1xemW5xRguvsf55JDrW3uFT7LwUD0puXv9nbPWODzwi4R2STghUG2OTvj1roBFn138559OAZqXZoA==
+3 _ENCR 1
+2 _DATE 2025-09-07 07:39:50.576
+1 _ORIG newspapers
+2 _URL https://www.newspapers.com/article/evening-star-julia-a-cartwight-d-march-1/180582696/?xid=865
+1 _MSER
+2 _LKID 3aee66c4-ed41-48e2-bf2e-59be34c172af
+1 _ATL N
+0 @O20@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 33035
+3 _WDTH 400
+3 _HGHT 400
+2 TITL Newspapers.com - Evening star - 14 Mar 1901 - Page 7 Julia A Cartwright death notice, mother of Margret Holden, Anna Boyd and Al
+1 _OID 8e97f185-ea3a-4527-b20e-cb92d23ceb90
+1 DATE 14 Mar 1901
+1 PLAC Washington, District of Columbia
+1 _CREA 2025-09-18 19:02:35.373
+1 _USER PSR8CaaxWNjVgdbI7FM3kYf9c8bXLReaWX1jBOhWPb+2HzDMAYLPrCrwF7JH/llsBFj2bVhYH31TlaTnygFThg==
+2 _ENCR 1
+1 _CLON
+2 _TID 184232836
+2 _PID 382552041703
+2 _OID 77d4d948-2cea-4c94-b91e-6deb812bb00e
+2 _USER L+7QOAIAVBoFmoSCCswD4edMuTkxgiG8MoknLvYEXLb6bBUfuNY30qXpInMRon1FYNjiF0fM53iT2euwOOTAlA==
+3 _ENCR 1
+2 _DATE 2025-09-04 20:03:47.879
+1 _ORIG newspapers
+2 _URL https://www.newspapers.com/article/evening-star-julia-a-cartwright-death-no/180409541/?xid=865
+1 _MSER
+2 _LKID 77d4d948-2cea-4c94-b91e-6deb812bb00e
+1 _ATL N
+0 @O21@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE bmp
+3 _SIZE 17728
+3 _WDTH 320
+3 _HGHT 203
+2 TITL Cartwright appeal
+1 _OID a19f942c-5a1f-46da-878c-359a351a2feb
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-09-18 18:06:17.697
+1 _USER 4pOGRdesFDvZEls0P5DGMRO/cnoyWEtPjYpYF5q/rSPPwjbaEn/FXbLD3dYPo1H5rXRD3wE0Vrt2I+/jM1p0UQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 16693880
+2 _PID 1000060889
+2 _OID a8dfd489-7d6d-4b34-9ee4-8c3f29a6ffc9
+2 _USER khCbIz6dvEPPSa2dKQw6O32mYwBvh7jvhaa3FUdrU37FPENd5ESfqV8DkyDthAGxqmnJaw+HVI3OsOCpJDrZPA==
+3 _ENCR 1
+2 _DATE 2013-08-11 21:10:37.767
+1 _ORIG u
+1 _MSER
+2 _LKID a8dfd489-7d6d-4b34-9ee4-8c3f29a6ffc9
+1 _ATL N
+0 @O22@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 32561
+3 _WDTH 400
+3 _HGHT 400
+2 TITL Grace Duckett Death Notice
+1 _OID bcdaada5-6a80-4f3d-a68b-a9f916717377
+1 DATE 29 Jul 1874
+1 PLAC Washington, District of Columbia
+1 _CREA 2025-09-18 18:11:20.538
+1 _USER H7dAxzkNs7Md9XRM5hUljLlJ+P014IbUYx451/6d8/nkM3wXfJ/c8eQlq+ioOBAq+tVQFozW7DDG/aj+VXZONw==
+2 _ENCR 1
+1 _CLON
+2 _TID 177644390
+2 _PID 102304913142
+2 _OID 211295f5-2e03-4ed5-bb6c-1b1a9a29e2fe
+2 _USER LACOs5KNb/kVpFHcDP/YgTvCSufO9OJlHH2kq4a8xj8E9QYiViPtqH9R5BtwOKTG6k+0ZkeMIVJ3Wjoj8kg5zA==
+3 _ENCR 1
+2 _DATE 2022-11-30 21:43:35.618
+1 _ORIG newspapers
+2 _URL https://www.newspapers.com/clip/113898616/grace-duckett-death-notice/?xid=865
+1 _MSER
+2 _LKID 211295f5-2e03-4ed5-bb6c-1b1a9a29e2fe
+1 _ATL N
+0 @O23@ OBJE
+1 FILE
+2 FORM pdf
+3 TYPE story
+3 _MTYPE story
+3 _STYPE pdf
+3 _SIZE 236357
+2 TITL Carwright,, Joseph Newpaper Article 3rd Colum Jos
+1 _OID c402c73a-ae22-46f4-85d7-1b37d137853b
+1 DATE 1/23/2022 8:24:50 PM
+1 _CREA 2025-09-18 18:07:20.165
+1 _USER LaTwoR5hXeHZomQX9L/hRPtufaiaRP+NT7XzWQOVI/Ra8P3BtVqkUqDR2XfeBvz3z6r8TcLGjwMFF8sGb2bQZA==
+2 _ENCR 1
+1 _CLON
+2 _TID 203684366
+2 _PID 322663203795
+2 _OID b5ac3125-9d87-4a5c-95e9-790ae85db4c0
+2 _USER ccuuAvnwJsFMzf+lqUy4JbaRNnoYdNX29CzO8camjj0qmTdvxKWDE4No5ysUIkscac/4N6q6plMQG/W5jv2uZw==
+3 _ENCR 1
+2 _DATE 2025-04-13 22:52:51.990
+1 _ORIG u
+1 _MSER
+2 _LKID b5ac3125-9d87-4a5c-95e9-790ae85db4c0
+1 _ATL N
+0 @O24@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 37594
+3 _WDTH 250
+3 _HGHT 188
+2 TITL Old Methodist Burial Ground
+1 _OID cd01df0a-82a3-415f-b45d-134b1a93c7bb
+1 PLAC Georgetown, Washington, DC
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-09-18 18:23:40.456
+1 _USER BXqHTxyLwTS7CK86fITNm/tPrJPUy9TsPwxoqAiPsf79FMWC5Wi+FiLvG4xwsQYrympObobt/kj0oIoo0MvILQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 16693880
+2 _PID 1000060893
+2 _OID 8f5f9b4d-87a3-4a23-988f-be349bf6c2d6
+2 _USER oG6AI2GXROkM/cs9INitrzyg6o1XMyzmvpNddij+RVvzl7wJrK/8sPE5MVgsZ8W8uno7a0T3DWRBQu7IWZzeJw==
+3 _ENCR 1
+2 _DATE 2013-07-28 17:04:55.750
+1 _ORIG u
+1 _MSER
+2 _LKID 8f5f9b4d-87a3-4a23-988f-be349bf6c2d6
+1 _ATL N
+0 @O25@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE bmp
+3 _SIZE 4290209
+3 _WDTH 2372
+3 _HGHT 2094
+2 TITL Deed of Emmancipation, Joseph W.Cartwright, Jr.
+1 _OID d951a168-496b-4b93-be28-384748da1176
+1 DATE December 13, 1819
+1 PLAC Loudon County, Virginia
+1 _DSCR Transcription:
+2 CONT Deed of Emancipation for Joseph W Cartwright, Sr.
+2 CONT December 13, 1819
+2 CONT 
+2 CONT Know all men by these present that I John Rose of the County of Loudoun and State of Virginia as well for and in consideration of the faithful and extraordinary meritorious services of my negro man slave named Joe (sometimes called Joseph Cartwrigh
+2 CONC t) as of other considerations (?) thereunto moving have emancipated, freed and set at liberty my said negro man slave named Joe and by these present do emancipate, free and set at liberty and forever discharge from the service of my self and all ot
+2 CONC hers the said negro man named Joe (alias Joseph Cartwright) hereby declaring him to be free to all intents and purposes.  In testimony whereof I have hereunto set my hand and seal this 13th day of December 1819.  
+2 CONT 
+2 CONT Signed, sealed, acknowledged and delivered in the presence of the court held for Loudoun County on the 13th day of Dec. 1819,  This deed  of Emancipation from John Rose to Joe(alias Joseph Cartwright) was acknowledged by said Rose to be his act an
+2 CONC d deed approved of by the court and ordered to be  so recorded. 
+2 CONT 
+2 CONT 						
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-09-18 18:06:33.508
+1 _USER OrsGSwTx+GcwreNx0gsI1Jce26mVLmRfejH0SpWkLjBg4yX+nbHGHOiRYptlDJTxwSpS5W+VQAsgmvUqutmdKA==
+2 _ENCR 1
+1 _CLON
+2 _TID 16693880
+2 _PID 1000060889
+2 _OID 70e9272b-d687-46d7-968c-665b48f856e9
+2 _USER 8EsDwEg0AJNWhtcpIpbyYffA3KkjQH8XkTi8PfhAqeBd0HEWmm7hzgFUoNbi73RevQ0HPUL1Z1TuOTjD0MMZPQ==
+3 _ENCR 1
+2 _DATE 2013-08-11 20:27:16.687
+1 _ORIG u
+1 _MSER
+2 _LKID 70e9272b-d687-46d7-968c-665b48f856e9
+1 _ATL N
+0 @O26@ OBJE
+1 FILE
+2 FORM
+3 TYPE story
+3 _MTYPE story
+3 _STYPE x-inline
+3 _SIZE 10254
+2 TITL Joseph Cartwright
+1 _OID dc29ce5a-9733-4b6d-bef8-0cfbda970e6f
+1 _META <metadataxml><content><line>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;&amp;nbsp;Many thanks to Aaron Dorsey, Researcher, who provided the following:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p style="margin: 0in 0in 0
+2 CONC pt; background: #fef9e4;"&gt;&lt;span&gt;&lt;strong&gt;Joseph Cartwright was born into slavery on 15 Jul 1783 in Maryland. He died on 2 Dec 1851 at the age of 68 in Washington, District of Columbia. He was buried on 4 Dec 1851 at the Old Methodis
+2 CONC t Burial Ground in Georgetown, Washington, District of Columbia. &lt;span style="mso-spacerun: yes;"&gt;&amp;nbsp;&lt;/span&gt;His wife, Susannah "Sucky" Wilson was born in 1781 in Maryland. She died on 5 Dec 1850 at the age of 69 in Washington, Di
+2 CONC strict of Columbia. &lt;span style="mso-spacerun: yes;"&gt;&amp;nbsp;&lt;/span&gt;Sucky was buried on 7 Dec 1850 at Old Methodist Burial Ground in Georgetown, Washington, District of Columbia.&lt;span style="mso-spacerun: yes;"&gt;&amp;nbsp; &lt;/s
+2 CONC pan&gt;Joseph and&amp;nbsp;Susannah were married on 26 Dec 1800. &lt;span style="mso-spacerun: yes;"&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;br&gt;Rev. Joseph Cartwright was emancipated by a deed from John Rose in 1819. According to Dr. Ida Jones
+2 CONC , Joseph purchased his freedom for five dollars. Four years later, Cartwright purchased the freedom of his wife Susannah (Sucky) and youngest son Alfred in 1823 from Mary Saunders' trustee Samuel Edwards. Cartwright relocated to Georgetown. He woul
+2 CONC d spend the next decade raising money to purchase the freedom of his other children Joseph Jr., Lewis and &lt;em style="mso-bidi-font-style: normal;"&gt;&lt;span style="text-decoration: underline;"&gt;Nora&lt;/span&gt;&lt;/em&gt; (we are descende
+2 CONC d from Nora, who married my 2&lt;sup&gt;nd&lt;/sup&gt; great grandfather, Lloyd Brown), traveling as far away as Salem, Massachusetts, where he stayed with white abolitionist Rev. Charles Turner Torrey, to raise money for the purchase of his childr
+2 CONC en.&lt;br&gt;&lt;br&gt;On 19 December 1832, he paid Tighman Gore of Loudoun County, VA, $300.00 of the $350.00 that was requested for his son Joseph Cartwright, Jr. Tighman retained the service of Joseph Jr. for the ensuing year until the balance w
+2 CONC as paid off. About five year later (17 April 1837), Joseph Sr. purchased his son Lewis from Presly Saunders and his wife Mary for $600.00. He paid $500.00 immediately and paid the balance off by July 1837. And on 21 August 1839, he purchased his la
+2 CONC st child, &lt;em style="mso-bidi-font-style: normal;"&gt;&lt;span style="text-decoration: underline;"&gt;Nora&lt;/span&gt;&lt;/em&gt;, from slavery. He purchased &lt;em style="mso-bidi-font-style: normal;"&gt;&lt;span style="text-decoration: underl
+2 CONC ine;"&gt;Nora&lt;/span&gt;&lt;/em&gt; from Evan Lyons for $600.00.&lt;br&gt;&lt;br&gt;One month after purchasing all of his children he manumitted (freed) them on 23 September 1839&lt;/strong&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;.&amp;nbsp; &l
+2 CONC t;/strong&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p style="margin: 0in 0in 0pt; background: #fef9e4;"&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;span style="font-family: 'arial black'
+2 CONC ; color: black; font-size: 14pt;"&gt;&lt;span style="font-family: times new roman, times; font-size: small;"&gt;It appears that the other Cartwright children (Phoebe, Charles, Hamilton, William and Wilson). may have died prior to reaching adulthood
+2 CONC , since the only record that exist for them is in Rev. Joseph Cartwright's Bible which list their name and date of birth. (Joseph&amp;rsquo;s Bible is in the possession of the Traylor family, decendents of &lt;span style="mso-spacerun: yes;"&gt;&am
+2 CONC p;nbsp;&lt;/span&gt;Lewis Cartwright).&lt;span style="mso-spacerun: yes;"&gt;&amp;nbsp; &lt;/span&gt;Also in the William King's Mortality Books Volumes 1 &amp;amp;2, Joseph Cartwright is listed as purchasing stained coffins for two children one o
+2 CONC n 1 Dec 1826 and another one on 12 Apr 1840.&lt;/span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;span style="font-family: times new roman, times; color: black; font-size: small;"&gt;&amp;nbsp;&lt;/spa
+2 CONC n&gt;&lt;/p&gt;</line><line>&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;span style="font-family: times new roman, times; color: black; font-size: small;"&gt;Nora was enslaved in &lt;/span&gt;&lt;span style="font-family: 'arial black'; color: black; f
+2 CONC ont-size: 14pt;"&gt;&lt;span style="font-family: times new roman, times; font-size: small;"&gt;Loudoun County&lt;/span&gt;&lt;/span&gt;&lt;span style="font-family: 'arial black'; color: black; font-size: 14pt;"&gt;&lt;span style="font-family: time
+2 CONC s new roman, times; font-size: small;"&gt;, &lt;/span&gt;&lt;/span&gt;&lt;span style="font-family: 'arial black'; color: black; font-size: 14pt;"&gt;&lt;span style="font-family: times new roman, times; font-size: small;"&gt;VA.&lt;/span&gt;&lt;/spa
+2 CONC n&gt;&lt;span style="font-family: times new roman, times; color: black; font-size: small;"&gt; The family resided in &lt;/span&gt;&lt;span style="font-family: 'arial black'; color: black; font-size: 14pt;"&gt;&lt;span style="font-family: times ne
+2 CONC w roman, times; font-size: small;"&gt;Loudoun County&lt;/span&gt;&lt;/span&gt;&lt;span style="font-family: 'arial black'; color: black; font-size: 14pt;"&gt;&lt;span style="font-family: times new roman, times; font-size: small;"&gt;, &lt;/span&gt;&
+2 CONC lt;/span&gt;&lt;span style="font-family: 'arial black'; color: black; font-size: 14pt;"&gt;&lt;span style="font-family: times new roman, times; font-size: small;"&gt;VA&lt;/span&gt;&lt;/span&gt;&lt;span style="font-family: times new roman, times; c
+2 CONC olor: black; font-size: small;"&gt; prior to relocating to &lt;/span&gt;&lt;span style="font-family: 'arial black'; color: black; font-size: 14pt;"&gt;&lt;span style="font-family: times new roman, times; font-size: small;"&gt;Georgetown&lt;/span&gt
+2 CONC ;&lt;/span&gt;&lt;span style="font-family: 'arial black'; color: black; font-size: 14pt;"&gt;&lt;span style="font-family: times new roman, times; font-size: small;"&gt;, &lt;/span&gt;&lt;/span&gt;&lt;span style="font-family: 'arial black'; color: b
+2 CONC lack; font-size: 14pt;"&gt;&lt;span style="font-family: times new roman, times; font-size: small;"&gt;Washington&lt;/span&gt;&lt;/span&gt;&lt;span style="font-family: times new roman, times; color: black; font-size: small;"&gt;, DC. In addition, th
+2 CONC e records show that Joseph was owned by a John Rose whereas his wife and children were owned by the Saunders Family. This is very common for the mother and father to be owned by different individuals.&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p style=
+2 CONC "margin: 0in 0in 0pt; background: #fef9e4;"&gt;&lt;br&gt;&lt;span style="font-family: times new roman, times; font-size: small;"&gt;&lt;strong&gt;Joseph was hired by Ebenezer Church in Georgetown in 1824, to preach to Blacks in Prince Georges Count
+2 CONC y, Maryland at a salary of $25.00 a year. In 1825, the Baltimore Conference of the Methodist Church, named Cartwright, as the first Black supply pastor to be placed on salary and appointed to lead one of its Black congregations. The following yea
+2 CONC r he would become the first Black person to be ordained as an elder although he was not admitted into the conference of traveling ministers. In 1830, he was ordained as a local preacher by the Georgetown Station. During the same year, the Baltimor
+2 CONC e District of the Conference employed him to travel in the lower part of the district. The lower part of the district included Fairfax, Loudoun, PrinceWilliamCounties, VA and Washington, DC.&lt;br&gt;&lt;br&gt;In 1831, the Conference approved recom
+2 CONC mendations for Cartwright to do missionary service in Liberia. Although there is no record stating why he did not go to Liberia, one can assume that it had to do with the fact that his children were still enslaved at the time.&lt;br&gt;&lt;br&gt;Jo
+2 CONC seph Cartwright and Susannah Wilson Cartwright had the following children:&lt;br&gt;&lt;br&gt;1. Phoebe Cartwright was born on 12 Apr 1802.2&lt;br&gt;2. Charles Cartwright was born on 22 Jan 1804.&lt;br&gt;3. Hamilton Cartwright was born on 8 Jan 1
+2 CONC 806.2&lt;br&gt;4. Joseph W. Cartwright Jr., born 6 Apr 1809, Maryland; married Adelaid Peters, 3 Feb 1858, Washington, District of Columbia.&lt;br&gt;5. William Cartwright was born on 23 Jan 1811 in Maryland.&lt;br&gt;6. Wilson Cartwright was bor
+2 CONC n on 23 Jan 1813 in Maryland.&lt;br&gt;*7. &lt;em style="mso-bidi-font-style: normal;"&gt;&lt;span style="text-decoration: underline;"&gt;Nora Ann Cartwright, born 23 Jan 1815, Maryland; married Lloyd Brown, 15 Dec 1849, Washington, &lt;/span&gt;&l
+2 CONC t;/em&gt;&lt;/strong&gt;&lt;em&gt;&lt;span style="text-decoration: underline;"&gt;&lt;span style="color: #656565; mso-bidi-font-family: arial;"&gt;&lt;strong&gt;District of Columbia&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="text-decor
+2 CONC ation: underline;"&gt;&lt;span style="color: #656565; mso-bidi-font-family: arial;"&gt;&lt;strong&gt;.&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;strong&gt;8. Lewis Cartwright, born 4 Jan 1817, Virginia; married Julia Ann Duck
+2 CONC ett, 19 May 1841, Washington, District of Columbia; died 4 Mar 1875, Washington, District of Columbia.&lt;br&gt;9. Alfred Griffith Cartwright, born 12 Jan 1820, Maryland; married Jane Scott, 23 Oct 1839, Washington, District of Columbia.&lt;br&gt;1
+2 CONC 0. Mary Sophia Cartwright, born 25 Jul 1824; married Nelson Edwards, 25 Nov 1860; married John Henry Brown.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p style="margin: 0in 0in 0pt; background: white;"&gt;&lt;span style="font-family: time
+2 CONC s new roman, times; font-size: small;"&gt;&lt;strong style="mso-bidi-font-weight: normal;"&gt;&lt;span style="color: #696767; mso-bidi-font-family: arial;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;p style="ma
+2 CONC rgin: 0in 0in 0pt; background: white;"&gt;&lt;span style="font-family: times new roman, times; font-size: small;"&gt;&lt;strong style="mso-bidi-font-weight: normal;"&gt;&lt;span style="color: #696767; mso-bidi-font-family: arial;"&gt;Researched b
+2 CONC y Aaron Dorsey&lt;br&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</line></content></metadataxml>
+1 _CREA 2025-09-18 18:07:58.674
+1 _USER f0avq8H5pcKE8Dt2CUxOPieKNXxDJ3rY3rGqyx7+FvH9vFZxM9Y/iFl07DXjA3AzAvdtZBgK2Fvda92HphG6jw==
+2 _ENCR 1
+1 _CLON
+2 _TID 16693880
+2 _PID 1000060889
+2 _OID a7e91fa5-d15a-4ae3-b631-2a3028875543
+2 _USER aMWm7gnMb7unD/2FiITQNpPNml86XFiNNj7tiAWr34gvtkR8VR7TnjekkMKRBgV/IEKufcC4zyvyPEFV4q5bzw==
+3 _ENCR 1
+2 _DATE 2013-07-28 17:03:00.760
+1 _ORIG u
+1 _MSER
+2 _LKID a7e91fa5-d15a-4ae3-b631-2a3028875543
+1 _ATL N
+0 @S522615639@ SOUR
+1 TITL Ancestry Family Tree
+1 PUBL
+2 PLAC Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+1 _APID 1,1030::0
+1 REPO @R406051983@
+0 @S522615746@ SOUR
+1 TITL Washington, District of Columbia, U.S., Death Certificates, 1874-1931
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2024
+2 PLAC Lehi, UT, USA
+1 _APID 1,62876::0
+1 REPO @R406051983@
+0 @S522615771@ SOUR
+1 TITL 1840 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Lehi, UT, USA
+1 _APID 1,8057::0
+1 REPO @R406051983@
+0 @S522615779@ SOUR
+1 TITL District of Columbia, U.S., Select Deaths and Burials Index, 1769-1960
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2014
+2 PLAC Lehi, UT, USA
+1 _APID 1,60260::0
+1 REPO @R406051983@
+0 @S522615836@ SOUR
+1 TITL U.S., Find a Grave® Index, 1600s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2012
+2 PLAC Lehi, UT, USA
+1 _APID 1,60525::0
+1 REPO @R406051983@
+0 @S522616061@ SOUR
+1 TITL 1850 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2009
+2 PLAC Lehi, UT, USA
+1 _APID 1,8054::0
+1 REPO @R406051983@
+0 @S522616074@ SOUR
+1 TITL 1870 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2009
+2 PLAC Lehi, UT, USA
+1 _APID 1,7163::0
+1 REPO @R406051983@
+0 @S522616077@ SOUR
+1 TITL 1880 United States Federal Census
+1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Saints
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2010
+2 PLAC Lehi, UT, USA
+1 _APID 1,6742::0
+1 REPO @R406051983@
+0 @S522616079@ SOUR
+1 TITL 1860 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2009
+2 PLAC Lehi, UT, USA
+1 _APID 1,7667::0
+1 REPO @R406051983@
+0 @S522616082@ SOUR
+1 TITL U.S., Freedman's Bank Records, 1865-1874
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2005
+2 PLAC Lehi, UT, USA
+1 _APID 1,8755::0
+1 REPO @R406051983@
+0 @S522616083@ SOUR
+1 TITL U.S., Newspapers.com™ Obituary Index, 1800s-current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2019
+2 PLAC Lehi, UT, USA
+1 _APID 1,61843::0
+1 REPO @R406051983@
+0 @S522616084@ SOUR
+1 TITL U.S., City Directories, 1822-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2011
+2 PLAC Lehi, UT, USA
+1 _APID 1,2469::0
+1 REPO @R406051983@
+0 @S522616087@ SOUR
+1 TITL Washington, U.S., Marriage Records, 1854-2013
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2012
+2 PLAC Provo, UT, USA
+1 _APID 1,2378::0
+1 REPO @R406051983@
+0 @S522616088@ SOUR
+1 TITL District of Columbia, U.S., Newspapers.com™ Stories and Events Index, 1800's-current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2023
+2 PLAC Lehi, UT, USA
+1 _APID 1,50087::0
+1 REPO @R406051983@
+0 @S522616090@ SOUR
+1 TITL District of Columbia, U.S., Marriage Records, 1810-1953
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2016
+2 PLAC Lehi, UT, USA
+1 _APID 1,61404::0
+1 REPO @R406051983@
+0 @S522616116@ SOUR
+1 TITL District of Columbia, U.S., Slave Emancipation Records, 1851-1863
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2011
+2 PLAC Lehi, UT, USA
+1 _APID 1,2171::0
+1 REPO @R406051983@
+0 @S522616142@ SOUR
+1 TITL Pennsylvania and New Jersey, U.S., Church and Town Records, 1669-2013
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2011
+2 PLAC Lehi, UT, USA
+1 _APID 1,2451::0
+1 REPO @R406051983@
+0 @S522616154@ SOUR
+1 TITL 1900 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2004
+2 PLAC Lehi, UT, USA
+1 _APID 1,7602::0
+1 REPO @R406051983@
+0 @S522616183@ SOUR
+1 TITL 1830 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,8058::0
+1 REPO @R406051983@
+0 @S522616184@ SOUR
+1 TITL Washington, District of Columbia, U.S., Marriage Certificates, 1870-1920
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2024
+2 PLAC Lehi, UT, USA
+1 _APID 1,62863::0
+1 REPO @R406051983@
+0 @S522616186@ SOUR
+1 TITL Historical court records of Washington, District of Columbia
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2004
+2 PLAC Provo, UT
+1 _APID 1,25493::0
+1 REPO @R406051983@
+0 @S522616188@ SOUR
+1 TITL District of Columbia, U.S., Compiled Marriage Index, 1830-1921
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc
+2 DATE 2014
+2 PLAC Lehi, UT, USA
+1 _APID 1,60261::0
+1 REPO @R406051983@
+0 @S522662917@ SOUR
+1 TITL U.S., Quaker Meeting Records, 1681-1935
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2014
+2 PLAC Lehi, UT, USA
+1 _APID 1,2189::0
+1 REPO @R406051983@
+0 @S522664734@ SOUR
+1 TITL Newspapers.com - Vermont Religious Observer - 4 Mar 1846 - 4
+1 PUBL Vermont Religious Observer
+2 DATE 4 Mar 1846
+2 PLAC Middlebury, Vermont
+1 REPO @R406053066@
+0 @R406051983@ REPO
+1 NAME Ancestry.com
+0 @R406053066@ REPO
+1 NAME www.newspapers.com
+0 @T32@ _MTTAG
+1 NAME Prioritized Ancestor
+1 RIN 32
+1 _VISI 1
+1 _MTCAT @C5@
+0 @C5@ _MTCAT
+1 NAME Research
+1 RIN 5
+0 TRLR
